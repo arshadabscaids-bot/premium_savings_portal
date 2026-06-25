@@ -1,0 +1,139 @@
+// ----------------------
+// DealVerse Loaded
+// ----------------------
+document.addEventListener("DOMContentLoaded", function () {
+    console.log("🚀 DealVerse Loaded Successfully!");
+    enableCardHoverEffect();
+});
+
+// Dark Mode Toggle
+function toggleDarkMode() {
+    document.body.classList.toggle("bg-dark");
+    document.body.classList.toggle("text-white");
+}
+
+// Buy Button Alert
+function showBuyAlert() {
+    alert("🔗 Redirecting to original website...");
+}
+
+// Scroll to Top Button
+window.addEventListener("scroll", function () {
+
+    const button = document.getElementById("topBtn");
+
+    if (!button) return;
+
+    if (document.documentElement.scrollTop > 200) {
+        button.style.display = "block";
+    } else {
+        button.style.display = "none";
+    }
+
+});
+
+function topFunction() {
+    window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+    });
+}
+
+// Flash Sale Countdown Timer
+let countDownDate = new Date().getTime() + (24 * 60 * 60 * 1000);
+
+let timer = setInterval(function () {
+
+    let now = new Date().getTime();
+    let distance = countDownDate - now;
+
+    let timerElement = document.getElementById("countdown");
+
+    if (!timerElement) return;
+
+    if (distance > 0) {
+
+        let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        let seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        timerElement.innerHTML = `${hours}h ${minutes}m ${seconds}s`;
+
+    } else {
+
+        clearInterval(timer);
+        timerElement.innerHTML = "⛔ Offer Expired";
+
+    }
+
+}, 1000);
+
+// Card Hover Animation
+function enableCardHoverEffect() {
+
+    const cards = document.querySelectorAll(".card");
+
+    cards.forEach(card => {
+
+        card.addEventListener("mouseenter", () => {
+            card.style.transform = "scale(1.03)";
+            card.style.transition = "0.2s ease";
+        });
+
+        card.addEventListener("mouseleave", () => {
+            card.style.transform = "scale(1)";
+        });
+
+    });
+}
+// ----------------------
+// Auto Product Images
+// ----------------------
+
+function getAutoImage(product) {
+
+    let keyword = "";
+
+    if (product.category === "Mobiles") {
+        keyword = "smartphone,5g,mobile";
+    }
+    else if (product.category === "Electronics") {
+        keyword = "electronics,gadget,tech";
+    }
+    else if (product.category === "Fashion") {
+        keyword = "fashion,clothes,style";
+    }
+    else if (product.category === "Shoes") {
+        keyword = "shoes,sneakers,sport";
+    }
+    else {
+        keyword = product.name;
+    }
+
+    return `https://source.unsplash.com/300x300/?${keyword}`;
+}
+
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    document.querySelectorAll(".product-img").forEach(function (img) {
+
+        let product = {
+
+            category: img.getAttribute("data-category"),
+            name: img.getAttribute("data-name"),
+            id: img.getAttribute("data-id")
+
+        };
+
+        img.src = getAutoImage(product);
+
+        img.onerror = function () {
+
+            img.src = "https://via.placeholder.com/300x300?text=No+Image";
+
+        };
+
+    });
+
+});
