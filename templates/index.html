@@ -1,0 +1,92 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<!-- Hero Section Start -->
+<div class="hero-section text-center">
+
+    <!-- Logo -->
+    <img src="{{ url_for('static', filename='images/logo.png') }}"
+         alt="PSP Logo"
+         width="110"
+         class="mb-3">
+
+    <h1 class="hero-title">
+        PREMIUM SAVINGS PORTAL
+    </h1>
+
+    <div class="hero-line"></div>
+
+    <h2 class="hero-subtitle">
+        Welcome to Our Website
+    </h2>
+
+    <p class="hero-text">
+        Find Best Limited Offers from Amazon,
+        Flipkart, Meesho and Myntra.
+    </p>
+
+</div>
+<!-- Hero Section End -->
+
+<div class="container mt-4">
+
+    <div class="row">
+
+        {% for product in products %}
+
+        <div class="col-lg-3 col-md-6 mb-4">
+
+            <div class="card product-card h-100">
+
+                <!-- Product Image -->
+                <img src="{{ url_for('static', filename=product.image) }}"
+                     class="card-img-top"
+                     alt="{{ product.name }}">
+
+                <div class="card-body">
+
+                    <h5 class="card-title">
+                        {{ product.name }}
+                    </h5>
+
+                    <p>
+                        <strong>Category:</strong>
+                        {{ product.category }}
+                    </p>
+
+                    <p>
+                        <del class="text-danger">
+                            ₹{{ product.original_price }}
+                        </del>
+
+                        &nbsp;&nbsp;
+
+                        <span class="offer-price">
+                            ₹{{ product.offer_price }}
+                        </span>
+
+                    </p>
+
+                    <p>
+                        ⭐ {{ product.rating }}
+                    </p>
+
+                    <a href="/product/{{ product.id }}"
+                       class="btn btn-danger w-100">
+                        View Details
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+</div>
+
+{% endblock %}
