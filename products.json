@@ -1,0 +1,1217 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy M36 5G",
+    "category": "Mobiles",
+    "platform": "Amazon",
+    "original_price": 25499,
+    "offer_price": 18999,
+    "rating": 4.5,
+    "image": "images/samsung_m36.jpg",
+    "buy_link": "https://www.amazon.in/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDB9H277/ref=sr_1_2?dib=eyJ2IjoiMSJ9.k6IYQqezr691RG11sHfCTyBiPKSjrtsnlhNlGp8ajBAoKlKeEO4Ix0-kHW1hMOZNYAfKHOZYEXMMGJGkNberqX3QXZi_XoPAUJg7F5Zj-gspXGvjeosAMsKHuaUENl6c82C3oselVBPzl7vbm67x1NLS11LAsTLrG74r36pVyCOIMMIUFxfrn9qiqoQqFMs9e5yf2NQg128041Mm0hA6G9M5aY9awPV2pb0FylUFilo.0VEXOFb4nlnvZZKYlNE771923sya53YIPb2j3DuIi_s&dib_tag=se&keywords=samsung%2Bgalaxy%2Bm35%2B5g&qid=1782289892&sr=8-2&th=1"
+  },
+
+  {
+    "id": 5,
+    "name": "Boat Airdopes 141",
+    "category": "Electronics",
+    "platform": "Meesho",
+    "original_price": 3490,
+    "offer_price": 1023,
+    "rating": 4.3,
+    "image": "images/boat_airdopes_141.jpg",
+    "buy_link": "https://www.meesho.com/boat-airdopes-alpha/p/aqdw7s"
+  },
+  {
+    "id": 6,
+    "name": "JBL Wave Buds",
+    "category": "Electronics",
+    "platform": "Amazon",
+    "original_price": 6999,
+    "offer_price": 2499,
+    "rating": 4.4,
+    "image": "images/jbl_wavebuds.jpg",
+    "buy_link": "https://www.amazon.in/JBL-Wireless-BluetoothV5-3-Cancellation-Customized/dp/B0DHL63KWK/ref=sr_1_3?dib=eyJ2IjoiMSJ9.Uw-Qk1-VxpSpFkeDL52n0NuvRWLflGWYofW-txH65eQLSj4hNzuxbc7ZBkofBEw_FQI7BnaW0NVHBC59VceVMX7EqG0eNtAak4fAoqYPmyWrVxLZ80ahXHMSZu4Aq5ertkYgRvo-wfTe_myYXm03qAOwN48O_twleb3kFuSpZDQId2E0gZ4ZSmOueTlXUimdATZol5IrUVZ3osxU4XZ5pIYvKf4sfnDvW_molYiiWMw.753VuLgaYvGK5E8JxJCt68kVO9HiGedDm76Ez84oZw0&dib_tag=se&keywords=jbl%2Bwave%2Bbuds&nsdOptOutParam=true&qid=1782290471&sr=8-3&th=1"
+  },
+  {
+    "id": 7,
+    "name": "Sony WF-C500",
+    "category": "Electronics",
+    "platform": "Flipkart",
+    "original_price": 5990,
+    "offer_price": 3990,
+    "rating": 4.5,
+    "image": "images/sony_wfc500.jpg",
+    "buy_link": "https://www.flipkart.com/sony-wh-ch520-cz-bluetooth/p/itm29e4c2b8a0883?pid=ACCGZ4MAHVHUTGDU&lid=LSTACCGZ4MAHVHUTGDUAUVQPZ&marketplace=FLIPKART&q=sony+wf+c500&store=0pm%2Ffcn%2F821&srno=s_1_1&otracker=search&fm=organic&iid=384f8672-2081-4a5c-bfae-d825d1df3905.ACCGZ4MAHVHUTGDU.SEARCH&ppt=sp&ppn=sp&ssid=dmgs2mn4wg0000001782292508607&qH=d3fcf7a2bd0b7165"
+  },
+
+  {
+    "id": 9,
+    "name": "Adidas Sports Shoes",
+    "category": "Shoes",
+    "platform": "Amazon",
+    "original_price": 7999,
+    "offer_price": 5993,
+    "rating": 4.5,
+    "image": "images/adidas_shoes.jpg",
+    "buy_link": "https://www.amazon.in/adidas-Mens-Ultrarun-Running-White/dp/B0CKS33SFR/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.718-rKKwHn5WeWq0COIseNhWF1xJLYxVxrrxfUib-Cs4UoqqmTY88uQKfZj6P4zwkwY50Ma_upL5S9slFg4Kc7LNsT1PrEidmeovRFrnME6mLzJy8gZTYFVlcD3x0gvyUpSPCnGY0jsnZWk7DiUCbZPBrtY5ZqmpHLUdthXMVcjUeW7eO9KBD-zx8beMfa_Er_zoZ-mvUG-d6l0e-XY6hUWXKlP5VMXW6-Fm10-Z7HIX1-RA09LebZqado1tgdbUfe902sZ0NgzyZQFRqLlPE3LuUXssIqfNqDvZXA8L6s0.S1sv9LWsyAkwXlwcV-BJT7bVgKsclEYzdGKCyKso_Rc&dib_tag=se&keywords=adidas%2Bsports%2Bshoes&qid=1782290934&sr=8-2-spons&aref=mvIT7lqqJM&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&psc=1"
+  },
+  {
+    "id": 10,
+    "name": "Men Cotton Shirt",
+    "category": "Clothing",
+    "platform": "Myntra",
+    "original_price": 2299,
+    "offer_price": 298,
+    "rating": 4.2,
+    "image": "images/mens_shirts.jpg",
+    "buy_link": "https://www.myntra.com/shirts/highlander/highlander-men-dobby-textured-occasion-slim-fit-shirt/30108687/buy"
+  },
+  {
+    "id": 11,
+    "name": "Women Kurti Set",
+    "category": "Clothing",
+    "platform": "Meesho",
+    "original_price": 277,
+    "offer_price": 222,
+    "rating": 4.3,
+    "image": "images/kurti.jpg",
+    "buy_link": "https://www.meesho.com/grey-printed-kurta-set/p/g4ei9e"
+  },
+  {
+    "id": 12,
+    "name": "Apple AirPods Pro",
+    "category": "Electronics",
+    "platform": "Amazon",
+    "original_price": 12900,
+    "offer_price": 11900,
+    "rating": 4.8,
+    "image": "images/airpods_pro.jpg",
+    "buy_link": "https://www.amazon.in/Apple-Bluetooth-Headphones-Personalised-Effortless/dp/B0DGJLL7V1/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.uZSECt7Sz6YYbFU7sjAKDRoqTRm4rFrq2sBsak_QNivrQi9Mb0SUhUeXTaxYw3QEervTxv12Wd19KvVE1fBpro9KuX1g2zSNDPzdH4hz2hk0U9PpDTLoK7-LbY6yC-ZQr3fPue2rzosyE7ZHm1wiKyM_pLP2BSTGXXOdV67GbBCUnRoPOjD6r77pA0XzK9p4ZXf9AnwtlKS8SwNM5tFU0WINfS0HcLDGDHbj6cC275Y.3HGkVc-3PaR9vZvcLaILrYWsmi7EkIaGu3_LBtypEyI&dib_tag=se&keywords=airpods+pro&nsdOptOutParam=true&qid=1782291479&sr=8-2-spons&aref=3vTISAVEc4&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+  },
+
+  {
+    "id": 14,
+    "name": "Puma Casual Shoes",
+    "category": "Shoes",
+    "platform": "Myntra",
+    "original_price": 2999,
+    "offer_price": 1919,
+    "rating": 4.4,
+    "image": "images/puma_shoes.jpg",
+    "buy_link": "https://www.myntra.com/sports-shoes/puma/puma-attacanto-ii-tt-youth-football-boots/39288840/buy"
+  },
+  {
+    "id": 15,
+    "name": "Smart Watch Noise",
+    "category": "Electronics",
+    "platform": "Amazon",
+    "original_price": 6999,
+    "offer_price": 1299,
+    "rating": 4.3,
+    "image": "images/noise_watch.jpg",
+    "buy_link": "https://www.amazon.in/Noise-Vibrant-Bluetooth-Metallic-Assistance/dp/B0DNQQ67JY/ref=sr_1_5?dib=eyJ2IjoiMSJ9.eeJyD1aUuCIwHn-Of_d4qlTO7wOcEtYg9h5vcfXLfG3MruQmsnmwKoyBIoqFBU08QiSysi0WcCfQvx8NoN8LrFyt7Ys_93GZgwDSNJ85hGaWxhHh7xmkARI_yCaxEJdqAzKIvcDPpAtLD1puZwZJV5MKmKHxoQEjhQgcR0f4rjKmsbgRRvhteAbRUAk1jNTQqV3wJ9pn6C-oR_8PuokViorubfO6YdXfg9xOGzom_gk.2j1oW5JGgBG8gEqksFT6RTGa-UwYI1VIDMKu7GzJm6M&dib_tag=se&keywords=noise+smart+watch&nsdOptOutParam=true&qid=1782291781&sr=8-5"
+  },
+  {
+    "id": 16,
+    "name": "Vivo T3 5G",
+    "category": "Mobiles",
+    "platform": "Flipkart",
+    "original_price": 22999,
+    "offer_price": 18499,
+    "rating": 4.3,
+    "image": "images/vivo_t3.jpg",
+    "buy_link": "https://www.flipkart.com/vivo-t3-5g-cosmic-blue-128-gb/p/itm69b3c5633378f?pid=MOBGYT3VZAAFCC8S&lid=LSTMOBGYT3VZAAFCC8SWHSYDH&marketplace=FLIPKART&q=vivo+t3+5g&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=2ace8600-b6de-4874-8bfa-713861c3e27b.MOBGYT3VZAAFCC8S.SEARCH&ppt=None&ppn=None&ssid=kuipnze0ts0000001782293765515&qH=dcba9c2cffedc3cb"
+  },
+  {
+    "id": 17,
+    "name": "Women Jeans",
+    "category": "Clothing",
+    "platform": "Myntra",
+    "original_price": 2999,
+    "offer_price": 659,
+    "rating": 4.2,
+    "image": "images/women_jeans.jpg",
+    "buy_link": "https://www.myntra.com/jeans/aadvi+fashion/aadvi-fashion-women-comfort-baggy-fit-high-rise-stretchable-jeans/35476703/buy"
+  },
+  {
+    "id": 18,
+    "name": "Meesho Earrings Set",
+    "category": "Fashion",
+    "platform": "Meesho",
+    "original_price": 200,
+    "offer_price": 134,
+    "rating": 4.1,
+    "image": "images/earnings.jpg",
+    "buy_link": "https://www.meesho.com/these-stunning-oxidized-silver-jhumkas-feature-vibrant-red-green-and-pink-hues-perfect-for-festive-occasions-their-intricate-designs-complement-any-outfit-adding-a-touch-of-elegance-and-tradition-making-them-an-ideal-accessory-for-celebrating-in-style/p/7rydx2"
+  },
+
+  {
+    "id": 20,
+    "name": "Boat Rockerz 255",
+    "category": "Electronics",
+    "platform": "Amazon",
+    "original_price": 4490,
+    "offer_price": 1299,
+    "rating": 4.2,
+    "image": "images/boat_rockerz255.jpg",
+    "buy_link": "https://www.amazon.in/boAt-Airdopes-Bluetooth-Wireless-Earphones/dp/B0G2S349C4/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.-zbf7uXoorF56qY5_qAEEcFyKKWmCacA6gDkWQHvT7K1PpENs9QmS69JufegoBgQMRZ8Orm-CJ3mczIFhwZh3zaGuFthwqPns2sAffilZWnHYTKVtbQ5TvAWjrK30qaE1rDy0nf8Bh6x72diGxP-0eCWldyEhzyJ4bJ5GT6AYDkQL7qex4dXZ4CLzG7tKaUSm-rdWo9qgy7FoGreUhw80ZoTW8p8g2nhGgl7lswMX8E.Je21v2hPXYBIZKXLksPZC0FRdktnX4wlYNpvjad7xL4&dib_tag=se&keywords=boat+rockerz+255&nsdOptOutParam=true&qid=1782292373&sr=8-2-spons&aref=9W64LOuMp8&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+  },
+  {
+    "id": 21,
+    "name": "Samsung Galaxy M56 5G",
+    "category": "Mobiles",
+    "platform": "Amazon",
+    "original_price": 33999,
+    "offer_price": 23499,
+    "discount_type": "Festival Offer",
+    "rating": 4.5,
+    "image": "images/samsung_m56.jpg",
+    "buy_link": "https://www.amazon.in/Samsung-Slimmest-Enhanced-Nightography-Processor/dp/B0F43VZ4H1/ref=sr_1_2?dib=eyJ2IjoiMSJ9.S82bww-WKGHRSAK_UsfnSGxmOVvz9g3d9-JtLKAz0nejDKPdvgY85-q7q_AAqXBQFyuleprIz1tP-N6CYP_Wu7YIf0v1od8ipFpJm34W6ZDruqS00erU1jNSN4fnYbU1O3rAPZtK_woUag8G9LBuZlxmwUwdBIhv7PpODGOn3wvjG_wsZR6K92lukhgAIh0iDEWtLyV86m-kQxPx_Zletvh1xhavfdurNEMhZAxfJJA.5iBdSNo1cBGyMhpMU4yP86ELwsa0tSpj5SSP1lB8JK4&dib_tag=se&keywords=samsung+galaxy+m56&qid=1782294365&sr=8-2"
+  },
+  {
+    "id": 22,
+    "name": "iQOO Z11x 5G",
+    "category": "Mobiles",
+    "platform": "Flipkart",
+    "original_price": 29999,
+    "offer_price": 25000,
+    "discount_type": "Flash Sale",
+    "rating": 4.4,
+    "image": "images/iqoo_z11x.jpg",
+    "buy_link": "https://www.flipkart.com/iqoo-z11x-5g-titan-black-128-gb/p/itm8278ba39f21e3?pid=MOBHHHHKGVHDGFNG&lid=LSTMOBHHHHKGVHDGFNGSPUAW7&marketplace=FLIPKART&q=iqoo+z11x&store=tyy%2F4io&srno=s_1_8&otracker=search&fm=organic&iid=aa6d38cb-7874-40e1-b5b6-d9321f65650c.MOBHHHHKGVHDGFNG.SEARCH&ppt=None&ppn=None&ssid=ornuo8t7b40000001782296366995&qH=fa901689f5785edd"
+  },
+  {
+    "id": 23,
+    "name": "OnePlus Nord CE 6 Lite",
+    "category": "Mobiles",
+    "platform": "Amazon",
+    "original_price": 31999,
+    "offer_price": 25999,
+    "discount_type": "Bank Offer",
+    "rating": 4.5,
+    "image": "images/oneplus_ce6_lite.jpg",
+    "buy_link": "https://www.amazon.in/OnePlus-Segments-Dimensity-Processor-Recording/dp/B0GVYGX4JX/ref=sr_1_4?dib=eyJ2IjoiMSJ9.W03FBYDFRm06WP-Do4etfZ9kLafBGwGmYlY3-FMqq_p9M3lnVXax-lmK5WY8vXMX0Vb8mxxJjLtMZgTaAcIxy5MS1pOx72_csnrMPUz75rr56GlW1iIdwcy-RO_1IHhgJJTiD4yjuGhgdd-fvBIxy9kJDL2A4BGI56cyRFMnZnnpbA2fH8HJpv44HUQTqbo9QkjnFzp-d80LLOGaBKGaf8UI-flOUE9hoSk_fusYJQU.4bFDMiOYeoe3YSU9dgDKsD9Hsi0YW3bvaj_-zIWi6NI&dib_tag=se&keywords=oneplus%2Bnord%2Bce6%2Blite&qid=1782294735&sr=8-4&th=1"
+  },
+
+{
+"id":28,
+"name":"ASUS VivoBook 15",
+"category":"Laptops",
+"original_price":58999,
+"offer_price":34990,
+"rating":4.5,
+"image":"images/asus_vivobook15.jpg",
+"buy_link":"https://www.flipkart.com/asus-vivobook-15-intel-core-i3-12th-gen-1215u-8-gb-512-gb-ssd-windows-11-home-x1502za-ej953ws-thin-light-laptop/p/itm3b11f9400fcd8?pid=COMGZKHQ8BXZFBUT&lid=LSTCOMGZKHQ8BXZFBUTEXWMPL&marketplace=FLIPKART&q=asus+vivobook+15&store=6bo%2Fb5g&srno=s_1_1&otracker=search&fm=organic&iid=0faca1ed-40e0-4a9e-92d6-b338627095a9.COMGZKHQ8BXZFBUT.SEARCH&ppt=None&ppn=None&ssid=xrzjgv2dgw0000001782296789508&qH=915010142662c8b0"
+},
+
+{
+"id":30,
+"name":"Samsung Top Load Washing Machine",
+"category":"Home Appliances",
+"original_price":33990,
+"offer_price":25990,
+"rating":4.4,
+"image":"images/samsung_washing_machine.jpg",
+"buy_link":"https://www.flipkart.com/samsung-10-kg-5-star-ai-wash-energy-mode-wi-fi-ecobubble-vrt-soft-closing-door-digital-inverter-fully-automatic-top-load-washing-machine-grey/p/itm0457bfe334f58?pid=WMNHAP2XXXHRXHZQ&lid=LSTWMNHAP2XXXHRXHZQIGSUIQ&marketplace=FLIPKART&q=samsung++top+load+washing+machine&store=j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=6e83fd70-728c-46ae-ab47-ba0841720db1.WMNHAP2XXXHRXHZQ.SEARCH&ppt=sp&ppn=sp&ssid=yfocccxids0000001782297039905&qH=1e0bb65798c97f47"
+},
+
+{
+"id":31,
+"name":"Prestige 3 Burner Gas Stove",
+"category":"Kitchen",
+"original_price":5685,
+"offer_price":4595,
+"rating":4.5,
+"image":"images/prestige_stove.jpg",
+"buy_link":"https://www.amazon.in/Prestige-Toughened-Glass-Top-Ergonomic-Tri-Pin/dp/B08HNHNHSS/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.MAM2iUTJvAH7f8xPLI1kp9MAR-LU4UsBrz2VcNTNQRd1RGuj_bG6G6TmPQdWmJkKgDz00T_oiGEUmPFrUeYwwzwHZRuVL-jUsawGQMIjtD6r0TvhZkUOOilH1VCuZ2awQOR2ALOWf4Ch5nesqUfLWesEWetRQoix_YsVmHFSbD4Hee2vz3dem6s_opWXPPZAzVX0VrsS46Y0GkWRyxKgud-nXWC-VC9iKW7b0k_t3zX9nWQwwk1VkZOmgI4yFsRyK4gJ2b1vlnsOU4nEu7oDVMx4ki76XhcXIsz6PaMUQVw.AGbByHv6O6EXwtRCwYBiiPv9MW291rpF_FZMVk7KYRs&dib_tag=se&keywords=prestige+gas+stove&qid=1782295359&sr=8-1-spons&aref=ByqENPWm4p&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+},
+
+{
+"id":32,
+"name":"Pigeon Gas Stove",
+"category":"Kitchen",
+"original_price":5999,
+"offer_price":2599,
+"rating":4.3,
+"image":"images/pigeon_stove.jpg",
+"buy_link":"https://www.flipkart.com/pigeon-brunet-glass-manual-gas-stove/p/itmb2bdded5a8035?pid=GSTF897AHTZHNTWZ&lid=LSTGSTF897AHTZHNTWZYO1ULD&marketplace=FLIPKART&q=pigeon+gas+stove&store=upp%2Fd7m%2Fuhm&srno=s_1_8&otracker=search&fm=organic&iid=c76499c5-bb18-4c3c-b622-b3cb79c91e7e.GSTF897AHTZHNTWZ.SEARCH&ppt=sp&ppn=sp&ssid=x79uievk340000001782297301531&qH=4bab4873692aab94"
+},
+
+{
+"id":33,
+"name":"Wildcraft College Bag",
+"category":"Bags",
+"original_price":1999,
+"offer_price":1099,
+"rating":4.5,
+"image":"images/wildcraft_bag.jpg",
+"buy_link":"https://www.amazon.in/Wildcraft-Backpack-Shoulder-Compartments-Anti-Theft/dp/B0FK2MYLMX/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.UkJOhfest4AYYGoDDLP0J38K_fkTxPMtRcOyXTxpO_kPXxP6942QuWXyCZUGb5F257Qh6B1L0qxX5KEIjekf1OUr8jfpyB3avW_6zr2n44HFEwccfeMe6liyoM4xXoAVBbKFSuwmzSeO6TQ2hPBjKVqoxiZHXZ22pCca5K1iy9jWMpy1IYnvi1BNkPsaB9L2CR18jjbhJTMzL-ymYKPZbvubdICbgiVmIJyd91vIgvbF55kcmTDxmqNzVwwq0oLTF3sqcH7a1ZLkxf1yFIvi-NktRgV8lHRXDeDn858C3EU.EJnZ9ilVaPkyFK73SZJIU8dqsLoX62Xgk-_SP5yeHvg&dib_tag=se&keywords=wildcraft%2Bcollege%2Bbag&nsdOptOutParam=true&qid=1782295608&sr=8-2-spons&aref=ubXNXJJVuL&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+},
+
+{
+"id":34,
+"name":"Skybags Backpack",
+"category":"Bags",
+"original_price":2750,
+"offer_price":850,
+"rating":4.4,
+"image":"images/skybags_backpack.jpg",
+"buy_link":"https://www.flipkart.com/skybags-teckie-pro-laptop-backpack-e-red-31-l/p/itm894a97921a9b2?pid=BKPGEDMKGYHHHMVJ&lid=LSTBKPGEDMKGYHHHMVJU6ZF31&marketplace=FLIPKART&q=skybags+backpack&store=reh%2F4d7&srno=s_1_5&otracker=search&fm=organic&iid=4f3c1177-dc40-4ea8-865c-f9d10b3667a1.BKPGEDMKGYHHHMVJ.SEARCH&ppt=sp&ppn=sp&ssid=h4egpri5340000001782297667392&qH=dd3f114a86d82c05"
+},
+
+{
+"id":36,
+"name":"Titan Chain",
+"category":"Jewellery",
+"original_price":411,
+"offer_price":144,
+"rating":4.4,
+"image":"images/titan_chain.jpg",
+"buy_link":"https://www.meesho.com/isubucci-classy-men-silver-silver-chain-bracelet-and-owl-ring-classy-men-silver-chain-silver-plated-bracelet-and-owl-ring-pack-3/p/9chr9l"
+},
+
+{
+"id":37,
+"name":"Silver Ring",
+"category":"Jewellery",
+"original_price":2398,
+"offer_price":1899,
+"rating":4.3,
+"image":"images/silver_ring.jpg",
+"buy_link":"https://www.amazon.in/CLARA-Sterling-Silver-Adjustable-Women/dp/B095YJ572B/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.RfxEsQVULCGFcGq6lJIhG3RawGEcC4W9uRWZy9FU32A1Hdaqh9ANloOHOMqOl6ErGIbbZg7HvwpjXaPJUBkhTUs9sfnr5KZuJeGJSemNSN86467EbFPuhrA9xkOJszM5dH0p0TEC7gTiJk7WsXqx-X51pocO3DYHjlJ5FmHP9Ylc_p0CmtLaWOJAA3KTx8WAoDoh-UL7oM0NB19vgZw3ba3h5Yv_dmKaQI2Eh0lq9_pHIlnuorEe_oo0Q4p6JnOXxYl6GgdH21BJguiET0D3aGV08Quhyyy7YY0L9h3FrEc.rTcKVi7I7Dkzc2sa-uQ9TqW2aMGa26_9LflE467sY8Q&dib_tag=se&keywords=silver%2Bring&qid=1782296119&sr=8-2-spons&aref=yfPtLj0i9p&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+},
+
+{
+"id":38,
+"name":"Lakme Lipstick",
+"category":"Beauty",
+"original_price":650,
+"offer_price":325,
+"rating":4.5,
+"image":"images/lakme_lipstick.jpg",
+"buy_link":"https://www.flipkart.com/lakm-9to5-primer-matte-lip-color/p/itm29fc0bb0cab2f?pid=LSKFX4KEFWEJUTAZ&lid=LSTLSKFX4KEFWEJUTAZJLDQLI&marketplace=FLIPKART&q=lakme+lipstick&store=g9b%2Fffi%2Ftv5%2Funa&srno=s_1_4&otracker=search&fm=organic&iid=49f71a78-c90d-4f5b-a37f-137a7d77302d.LSKFX4KEFWEJUTAZ.SEARCH&ppt=sp&ppn=sp&ssid=4hzy8wavhc0000001782298039236&qH=80bdc17a099f487f"
+},
+
+{
+"id":39,
+"name":"Maybelline Eyebrow Pencil",
+"category":"Beauty",
+"original_price":199,
+"offer_price":99,
+"rating":4.4,
+"image":"images/eyebrow_pencil.jpg",
+"buy_link":"https://www.amazon.in/Eyebrow-Definer-Spoolie-Natural-Waterproof/dp/B0D35CYZX6/ref=sr_1_8?dib=eyJ2IjoiMSJ9.UAs6HZf3Ml5oFQrpUxYJ5HxAPxOeYqXo1l5AZvpwNl5B4Dy3rQAGEwU0XeXkcuEw81iRbzyWdIYuqasxxNHRFbJeRoQ0pgAIyX2eSonVXLK1feAB9i2BNWCTr14QszM7mcc3EsFHHbNGRftxrWHJQpaEBXZsxd9nNYp8VpE-FQAhnuJD7E6KCLxJoH3vaZmWR8aQj2U_vSS8TB0ReKyfORZ3DyD5KEAy2yeGUTS1khOva-j1UJY9MBT9-a_OpsrLGaxYclzV_M4ndYIgG-eFqKU9NVxGBjL82r3YmNdTDU8.MKatdg_u4iaqPUz9guqyrlS-fpwBGIFn_Co7SccV5ss&dib_tag=se&keywords=eyebrow%2Bpencil&qid=1782296304&sr=8-8&th=1"
+},
+
+{
+"id":40,
+"name":"Puma Slippers",
+"category":"Footwear",
+"original_price":1999,
+"offer_price":1099,
+"rating":4.5,
+"image":"images/puma_slippers.jpg",
+"buy_link":"https://www.myntra.com/flip-flops/puma/puma-unisex-black-printed-popcat-20-sliders/18814952/buy"
+},
+
+{
+"id":42,
+"name":"Samsung 43 Inch Smart TV",
+"category":"TV",
+"original_price":94990,
+"offer_price":45990,
+"rating":4.5,
+"image":"images/samsung_tv.jpg",
+"buy_link":"https://www.amazon.in/Samsung-inches-Ultra-Smart-UA55BU8570ULXL/dp/B09Y66HNT2/ref=sr_1_18?dib=eyJ2IjoiMSJ9.7DqfQbLI0fNGCtgvh9Mm3LO7FdyM-m3WCap3WGI__oZFux9x_9cClTPoD-fC1x8eXFCCZXluHX7RJ3EUW2NXAUFMw7YX3zzjYXmO-u0GSC_biB_zc5TQ3cY9UjNefZguO3Y-8761QFC02nEz28w28wUoFxqUmGllhxtj4E4wdV7qOxwPJh9Ayg3gJrhqc9tD65Jv75c9xzu49SzZ4cF8oxPBcBMYHuMZF3CTYJEWxHo.M9SfQnbzvNnxzaZEU1ESjC7khCprUQr5nGhhcy7XzsI&dib_tag=se&keywords=samsung%2Bsmart%2Btv&qid=1782296634&sr=8-18&th=1"
+},
+
+{
+"id":44,
+"name":"USB Type C Cable",
+"category":"Electronics Accessories",
+"original_price":1999,
+"offer_price":679,
+"rating":4.3,
+"image":"images/typec_cable.jpg",
+"buy_link":"https://www.amazon.in/KARWAN-Magnetic-Warranty-Compatible-Smartphones/dp/B0G3XCY1QC/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.f7d72a1e-5698-491d-8e4e-cca77b240640%3Aamzn1.sym.f7d72a1e-5698-491d-8e4e-cca77b240640&cv_ct_cx=usb%2Btype%2Bc%2Bcable&keywords=usb%2Btype%2Bc%2Bcable&pd_rd_i=B0G3XCY1QC&pd_rd_r=5ea199d2-4bb6-4c6e-87d0-7aeb97d5f524&pd_rd_w=0RZaP&pd_rd_wg=xosoN&pf_rd_p=f7d72a1e-5698-491d-8e4e-cca77b240640&pf_rd_r=3HJMYDRMCM6QBC6V1T98&qid=1782296740&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-3-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&aref=NYsmktxc4C&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1"
+},
+
+{
+"id":45,
+"name":"Micro USB Cable",
+"category":"Electronics Accessories",
+"original_price":250,
+"offer_price":180,
+"rating":4.2,
+"image":"images/micro_usb.jpg",
+"buy_link":"https://www.flipkart.com/vivo-micro-usb-cable-2-1-m-brand-original-port-18w-9v-2a-data/p/itmaa7920fd33d27?pid=ACCHAXCZZNKYCVRF&lid=LSTACCHAXCZZNKYCVRFODAJJI&marketplace=FLIPKART&q=micro+usb+cable&store=tyy%2F4mr%2F3nu&srno=s_1_8&otracker=search&fm=organic&iid=aa1cc1b6-0893-4990-92c5-d9b2ad2ed701.ACCHAXCZZNKYCVRF.SEARCH&ppt=sp&ppn=sp&ssid=dcftvtfv4g0000001782298720370&qH=3cb0af0dc67fd84c"
+},
+
+{
+"id":46,
+"name":"Cotton Saree",
+"category":"Fashion",
+"original_price":361,
+"offer_price":261,
+"rating":4.4,
+"image":"images/cotton_saree.jpg",
+"buy_link":"https://www.meesho.com/trending-cotton-sarees-with-blouse-399/p/78zyj7"
+},
+
+{
+"id":47,
+"name":"Men Casual Shirt",
+"category":"Fashion",
+"original_price":1499,
+"offer_price":699,
+"rating":4.3,
+"image":"images/men_causal_shirts.jpg",
+"buy_link":"https://www.myntra.com/shirts"
+},
+
+{
+"id":48,
+"name":"Men Socks Pack",
+"category":"Fashion",
+"original_price":1299,
+"offer_price":172,
+"rating":4.2,
+"image":"images/socks.jpg",
+"buy_link":"https://www.amazon.in/SWAGR-Sports-Cotton-Length-Assorted/dp/B0DGX12XXV/ref=sr_1_5?dib=eyJ2IjoiMSJ9.1PkAZcvIdeJSG3ZvL6OPhDIw9OETHlrNhqfch9fUJb4wkertKzXzJH7CLbTcLeALpdU9U46Uih5jGHOPhPmnoq8ouWb3VXbCz2dddnLe6FldxlrXmas2Oy0VB-suAZbFERoMdOQ_yjG1ExumeMGgGaTcCkKLZ0v23JuppblS7sWIUDYpa0U9Wov7tBmTlVl78vqAa-f_idsETcMdz9zbpcxOaT8-4rxox88ma97RyM2GhcoSFD8eDABgkCxqK0yqZDG_EEF9Snx_rNEPohhKxI69D8tccD5Dwtm4N_i0OQg.SpZaezmLZRNaX2A_EJT5EVdr_C5XwXlZiLWVlGWFkeA&dib_tag=se&keywords=men+socks&qid=1782297338&sr=8-5"
+},
+
+{
+"id":49,
+"name":"Wooden Sofa Set",
+"category":"Furniture",
+"original_price":25999,
+"offer_price":10470,
+"rating":4.5,
+"image":"images/wooden_sofa.jpg",
+"buy_link":"https://www.flipkart.com/flipkart-perfect-homes-nyc-solid-wood-4-seater-sofa/p/itm3f04fce963ec1?pid=SOFHMGUWH3UHZA9K&lid=LSTSOFHMGUWH3UHZA9KP1BDCH&marketplace=FLIPKART&q=wooden+sofa&store=wwe%2Fc3z&srno=s_1_15&otracker=search&fm=organic&iid=7a91eb85-0ebf-4b37-90eb-59eea0b73b4e.SOFHMGUWH3UHZA9K.SEARCH&ppt=sp&ppn=sp&qH=cd93e47ec2b0e56c"
+},
+
+{
+"id":50,
+"name":"Wakefit Mattress",
+"category":"Furniture",
+"original_price":13030,
+"offer_price":9790,
+"rating":4.6,
+"image":"images/wakefit_mattress.jpg",
+"buy_link":"https://www.amazon.in/wakeup-INDIA-Mattress-Orthopedic-Mattresses/dp/B07DYK9K4R/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.ZQ-OJUkl9c8Bv3u6YHfxhvtoXqbzUxWo4L_0fRAqaoTQpNAwq4uh-WI1jp-eHCQq_uN7Yi0adVDJQF-ISJ9QVEJzAiGr4yc8DOYjPinsq3tufBpEcjTYvSHPWRtEP9FFCjwFoAChonk55X_G-0jR0LmUjJf2OR-lCoYAseF_oB40gpRkyvSoPwcwMiHPKl8SMYB7hJKS0-u7hIE_yNUf4bHcuZvA_fX2pABom7iKiPw59blPgrhSELUtr91kabRfjEshbEtUwkRVqzyeIDh0lwk_swXo1GyiAy3OZPVttvM.X24ovQkAMOkPQ7ftWPMN7x57rYZcX6E6xEG65Mozhz4&dib_tag=se&keywords=wakefit+mattress&qid=1782297531&sr=8-1-spons&aref=Ba4ir19YTo&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+},
+
+{
+"id":52,
+"name":"Gold Plated Bangles Set",
+"category":"Jewellery",
+"original_price":183,
+"offer_price":170,
+"rating":4.3,
+"image":"images/bangles.jpg",
+"buy_link":"https://www.meesho.com/maroom-makdi-57/p/fz8w8l"
+},
+
+{
+"id":53,
+"name":"Pearl Earrings",
+"category":"Jewellery",
+"original_price":3000,
+"offer_price":2754,
+"rating":4.4,
+"image":"images/earningss.jpg",
+"buy_link":"https://www.amazon.in/Sterling-Butterfly-Earrings-Rhodium-Zirconia/dp/B0CNLX97BN/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.3ml9bmSw9ZYy9kcfDsw--hH-h_l7LhJ-WEZfD0IT8FhaSAzKlH4KOWx9HaOk0ods9YWd1p48L9c2QQCoZkmOxxu55T8rZYDsx7CFVVXZFEpX7f5mwndsmHQaTDCv350SPzdx_0DSyXpQ0AteQvn3ePCQ6fasvLFxFS0kS1KUDwZAC7lOCrNAZBZQhrUz3E8vspdsUTvRIRwmJE4EPkppaYu5FP7aETObyfUeyXvuBqYIW3S1eta3ib-6eMVCwzYkyNbRx4gWpD6SSEkClMBDydI5bz_gV6qOFrESUTJrvYQ.TflmZ2Pe6_eHpw6swTFWCHfAK9f5_5N4KTLMj00htMo&dib_tag=se&keywords=earrings&qid=1782297689&sr=8-3-spons&aref=N0S9qSSsFf&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+},
+
+{
+"id":54,
+"name":"Havells Ceiling Fan",
+"category":"Home Appliances",
+"original_price":5499,
+"offer_price":2599,
+"rating":4.5,
+"image":"images/havells_fan.jpg",
+"buy_link":"https://www.flipkart.com/crompton-energion-hyperjet-bldc-technology-remote-control-3-year-warranty-motor-remote-energy-saving-high-air-delivery-controlled-1200-mm-ceiling-fan/p/itm76d800b46c227?pid=FANGQFKMHU2P6ASE&lid=LSTFANGQFKMHU2P6ASEXK1T6L&marketplace=FLIPKART&q=havells+fan&store=j9e%2Fabm%2Flbz&srno=s_1_1&otracker=search&fm=organic&iid=en_tNA1St8zMOITsRLnO4XE8Mq6g4xm6AYCVq3oDlgqtqeyYipJUnNNxxP9WF6k0EVGj-BYFoiqL_efapNa8HDLahiMvqGuo2TiTzOeYBeEHfdilAfSIevExWw-fs_1tPuK&ppt=None&ppn=None&ssid=vzkwwz0zds0000001782307316695&qH=704a189cffb4dd72"
+},
+
+{
+"id":55,
+"name":"Crompton Ceiling Fan",
+"category":"Home Appliances",
+"original_price":2599,
+"offer_price":1749,
+"rating":4.4,
+"image":"images/crompton_fan.jpg",
+"buy_link":"https://www.amazon.in/Crompton-SUREBREEZE-SAPPHIRA-Efficient-HighSpeed/dp/B0GC54GBWJ/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.1Kw6byDk6u-WW6D9u9VPhiD3ahznJXec2Gxh3JgSQhJlS_l6cOO1iMneqg5TGUf3afakBJdfhSvwiedReMtTkY0h5Ssn1Ky_nBPkwdMgxXW0Ji0pfD8VMdDy-ZjCM_f1x2qcZI4uxw655W6TMLBw87aUW3Y0Csda37aDAM9ZLXdk1IwbhkuqD6vSoZU4ttbKW-x4t9W5I2baKMoBtFyON7DuPg-XNsPMHV06Oy91Fm4.NHg2Ub9N4eWX09u7XevdxqSdL1jJp1AvGwtncIbfK0E&dib_tag=se&keywords=crompton+fan&qid=1782305633&sr=8-1-spons&aref=56OvrJ6E0U&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+},
+
+{
+"id":56,
+"name":"Prestige Mixer Grinder",
+"category":"Kitchen",
+"original_price":3950,
+"offer_price":2485,
+"rating":4.5,
+"image":"images/prestige_mixer.jpg",
+"buy_link":"https://www.flipkart.com/prestige-classic-500-w-juicer-mixer-grinder/p/itm98afa1d7a4810?pid=MIXGT4ZTBU5GGPQG&lid=LSTMIXGT4ZTBU5GGPQGXBZYYG&marketplace=FLIPKART&q=prestige+mixer&store=j9e%2Fm38%2F7ek&srno=s_1_3&otracker=search&fm=organic&iid=en_pxqCS04d4totkhW72naYla1at4qQiZkfm0bHa7K9GajaZS8iVkDwuGK9enc8w6e_2maEHfY97XW7tJ3268GEHnzszz_gBo9pT0ytQkYapjVm_TpcOTljQTW68sp5hvl8&ppt=None&ppn=None&ssid=485vs7zsk00000001782307558377&qH=11a602d6985fef7b"
+},
+
+{
+"id":57,
+"name":"Butterfly Mixer Grinder",
+"category":"Kitchen",
+"original_price":6284,
+"offer_price":3399,
+"rating":4.4,
+"image":"images/butterfly_mixer.jpg",
+"buy_link":"https://www.amazon.in/Butterfly-Jet-Elite-750-Watt-Grinder/dp/B07DGD4Z4C/ref=sr_1_4?dib=eyJ2IjoiMSJ9.w6mEqFQhlqKOsTWKBG3V0ImgfR-1lkedSmMEUPj6xuAVnp_T2QtplJoHpAt4fhNTwl4wbQ0IztpybEePEeoG0Q-QGkZ4tXs8YWgIseYclDW4LBvVZ5_DVx6z6SYnfD702V0uWyMjfWdvBcYDrNyGM6uRLISkx2KKsmTXD4hoLeEphruEvmwYuuqHnV_GI49zfSbLeLnG0wAYG7O_gQ_NgZGHfQfOEGEUdd2qIb1bNU0.8qL05Qeo-jVW7hbeokUbb1V4-Tf7jTZsM7yq7ywDpvc&dib_tag=se&keywords=butterfly+mixer&qid=1782305824&sr=8-4"
+},
+
+{
+"id":58,
+"name":"LG Double Door Refrigerator",
+"category":"Home Appliances",
+"original_price":68999,
+"offer_price":48990,
+"rating":4.6,
+"image":"images/lg_fridge.jpg",
+"buy_link":"https://www.flipkart.com/lg-398-l-frost-free-double-door-3-star-convertible-refrigerator-smart-inverter-compressor/p/itm28069d1b23b41?pid=RFRH27M9E8SEEDXF&lid=LSTRFRH27M9E8SEEDXFHAQMRT&marketplace=FLIPKART&q=lg+double+door+refrigerator&store=j9e%2Fabm%2Fhzg&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=a7b9d94b-be09-484e-86d6-aab09b2d389e.RFRH27M9E8SEEDXF.SEARCH&ppt=sp&ppn=sp&ssid=rikcaflfc00000001782307787524&qH=9742dde9eecdf0f6"
+},
+
+{
+"id":59,
+"name":"Samsung Refrigerator",
+"category":"Home Appliances",
+"original_price":25999,
+"offer_price":20490,
+"rating":4.5,
+"image":"images/samsung_fridge.jpg",
+"buy_link":"https://www.amazon.in/Samsung-Direct-Cool-Refrigerator-RR24H2823UZ-NL/dp/B0G8JJD3CM/ref=sr_1_18?dib=eyJ2IjoiMSJ9.jYLJ48PHeBwQIVfnBBQ9uSKxUnqNkpE15DL-LBR4n6K0VjYI5Y9fxd3yqb3JGEXipqsBiC9su2rPE4ik8tJTu5m3NjRp62jsVyGP86qwOPyokw04ZIjLuaw7QHAIsKSrANkAEcFHVlBOEXntftYEQ7o_qz8VtxYIEJ5ylizm4KF4CUq5B5j42ZiBKTAgV7A_XSA-Hcwa89T6eAnF0j8IuueLlGkAbHuPwns2UHbVkbg.CsA5itheIMIVE6qDHaSJNkP3Xn9wurza3Qx5VN7KXpU&dib_tag=se&keywords=samsung%2Brefrigerator&qid=1782306037&sr=8-18&th=1"
+},
+
+{
+"id":60,
+"name":"Noise Smart Watch",
+"category":"Electronics",
+"original_price":3999,
+"offer_price":1799,
+"rating":4.4,
+"image":"images/noise_watch.jpg",
+"buy_link":"https://www.flipkart.com/search?q=noise+smart+watch"
+},
+
+{
+"id":61,
+"name":"boAt Smart Watch",
+"category":"Electronics",
+"original_price":6499,
+"offer_price":1599,
+"rating":4.3,
+"image":"images/boat_watch.jpg",
+"buy_link":"https://www.amazon.in/boAt-Smartwatch-Charging-Functional-Tracking/dp/B0GX9JK9SN/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.HMc3b6W6N5MlHOBYanX9xhI9qfai1Pmbdgy-Q-8UPVFXxuY9FnoQ0PJAc_ZNyFvTJ3zyOGZ7T4kFHbCWyGMe1gHyod77EWzDtkd9nG9yUm51sDl0pQ7wHPdarfclBtoaLJ6BzLWIZ-zDXf2l4zhkr4DxJo4oTed2VhiEJvF6XTCfqUB8dV-QA9-3PBEoBsfq8ToZHwuKaLclOR_zCvRZRF5UpUMlPzq4nB03NZiz434.3hi53Q8nE-Q2PlyaU7BPcaBfTmh8swCPMOShHZVmHvY&dib_tag=se&keywords=boat+smart+watch&nsdOptOutParam=true&qid=1782306272&sr=8-1-spons&aref=GrIWjqfvOx&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+},
+
+{
+"id":62,
+"name":"Sony Headphones",
+"category":"Electronics",
+"original_price":1500,
+"offer_price":549,
+"rating":4.6,
+"image":"images/sony_headphones.jpg",
+"buy_link":"https://www.amazon.in/Sony-MDR-ZX110A-Stereo-Headphones-without/dp/B00KGZZ824/ref=sr_1_4?dib=eyJ2IjoiMSJ9.ItfoUigubFKrQzLXo9VPDsttjeBet0RkZ0n7stYaSljbvEZvnvzqVTgSAVcE6LLbRlTehjcFFUZEUNoL2FFcT3GJx_b2F-NtZ4CtU9TtBdGMJjhZsLwLdK6evjd2HttHFf7-0HsXxq9YyAz7358bru6_vFdvYdjDJvMIjPwK1EagHA_19S0_JckwKwHYRsNsZV9jmcPr0TsCl8DsEuiYo6OQHI3xSCWgclVBkJQZHQQ.JwkjyzB5nSkoRoN4tofMN0pUR_zRG9Y5Qfm0PB_wKYo&dib_tag=se&keywords=sony+headphones&nsdOptOutParam=true&qid=1782306325&sr=8-4"
+},
+
+{
+"id":63,
+"name":"JBL Bluetooth Speaker",
+"category":"Electronics",
+"original_price":2999,
+"offer_price":2499,
+"rating":4.5,
+"image":"images/jbl_speaker.jpg",
+"buy_link":"https://www.flipkart.com/jbl-go-essential-rich-bass-5-hrs-playtime-ipx7-waterproof-ultra-portable-3-1-w-bluetooth-speaker/p/itmabad18a769b0e?pid=ACCGCYFSJDQYHJ9R&lid=LSTACCGCYFSJDQYHJ9R5Q7JHR&marketplace=FLIPKART&q=jbl+speaker&store=0pm%2F0o7&srno=s_1_1&otracker=search&fm=organic&iid=ea0f2289-403c-46fc-85c1-46c6571a36bc.ACCGCYFSJDQYHJ9R.SEARCH&ppt=sp&ppn=sp&ssid=1ukf1v4pvk0000001782308244835&qH=1b34d1fbc41c9466"
+},
+
+{
+"id":65,
+"name":"Cotton Bedsheet",
+"category":"Home Decor",
+"original_price":999,
+"offer_price":499,
+"rating":4.4,
+"image":"images/bedsheet.jpg",
+"buy_link":"https://www.amazon.in/Welspun-Bedsheet-Breathable-Resistant-Comfortable/dp/B0GTW59Q2S/ref=sr_1_1_sspa?crid=1E1NBSMB2BCN9&dib=eyJ2IjoiMSJ9.QK6jqrvHyjlZiDzHGjxiHbSAOK_2-_hxIuYpZNwC7dnm8Jyru1gJ27tuAUf0wXENiU_wkCLNRpOdDgdP_i30o1XMnGdJ5rpmoOGeSGXiSKS4YQx6Aph-PvP5FGmUijDM8ijYSx9mmuPung41tlzfbtABS9AtnzbZtCEL5RtvV7sU-tgCbyTw2KJANNN1SBsktReIazg97vWa07-c4vv8A7g6LVW4kUZtbUnstrBORgDGS0r5XVV3V0pX2mwtUAnA1k5YVivFFXamHK2CI_1ZiYHosbi758ehQkkHpzjXZwI.yvUMSjoPNeRH_03yvXc3wNi-MJ7VUX_Jr6Nnt30Qe3k&dib_tag=se&keywords=cotton%2Bbedsheet&qid=1782306577&sprefix=cotton%2Bbedsheet%2Caps%2C317&sr=8-1-spons&aref=I6PtsWiAHI&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+},
+
+{
+"id":66,
+"name":"Milton Water Bottle",
+"category":"Kitchen",
+"original_price":798,
+"offer_price":399,
+"rating":4.5,
+"image":"images/milton_bottle.jpg",
+"buy_link":"https://www.flipkart.com/go24-1000-ml-fridge-refrigerator-stainless-steel-water-bottle-chromo-950-bottle/p/itm219d387737130?pid=BOTG35GMGEFZEEDQ&lid=LSTBOTG35GMGEFZEEDQB55NDB&marketplace=FLIPKART&q=milton+water+bottle&store=upp%2F3t7&srno=s_1_6&otracker=search&fm=organic&iid=en_EA8X3AMzMKLGE1QNkHkSaOvdKjbxttf10zJ4-dO3y5RiuGQeVK9ZvHaEj1Fb-ZBpNpbI5301bjKdE3hEsJLg7jVbnf1vm9MYuSBDD_D5t7PawhsdanHI3GLLfX7CE2w7&ppt=sp&ppn=sp&ssid=znkmfu3gu80000001782308455307&qH=b5dadb051a283782"
+},
+
+{
+"id":67,
+"name":"Prestige Pressure Cooker",
+"category":"Kitchen",
+"original_price":1850,
+"offer_price":1640,
+"rating":4.6,
+"image":"images/pressure_cooker.jpg",
+"buy_link":"https://www.amazon.in/Prestige-Svachh-Nakshatra-Duo-Spillage/dp/B085YG9V27/ref=sr_1_4_sspa?crid=1SXHTS1WJKRLA&dib=eyJ2IjoiMSJ9.Q89AP3fwvrREftxz8QhpwA7MOFMbjXi4dOETG1jcko0jSoO9oeEsKzWxWVEI-wN2JjT5OnVYLZFaFnsWgJah4Au9yJxLNRzunNeEtqKIJX8SvwEsiU5dyVi32qKuxdRORU9Y2PnAeIB9G8x-RVmYG97jyaJOXvnDVkE5TPQt0n3jjdlbsmoy3Ej8yEtTWEpiRFAzqj8SNCoM5Cwb_rWcuuQ1RI02XgODJw95_jO0DfJOAcWOybtK3-1JmhbQe-jW7TCk9z005BMjx6414zXD_9G1nmkK9QT5TyHYDaDo8yY.pqEmMfJ1Dp7EXqp1XvNWG5PFmMWBUCqBAc2mHYPxPPw&dib_tag=se&keywords=prestige+pressure+cooker&nsdOptOutParam=true&qid=1782306758&sprefix=prestigepressure+cooker%2Caps%2C354&sr=8-4-spons&aref=HldR4lFlMd&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+},
+{
+"id":68,
+"name":"Study Table",
+"category":"Furniture",
+"original_price":999,
+"offer_price":295,
+"rating":4.4,
+"image":"images/study_table.jpg",
+"buy_link":"https://www.flipkart.com/furnigully-flawer-table-solid-wood-study/p/itme71bbe1e9d2df?pid=OSTHMBREPTZVZHJC&lid=LSTOSTHMBREPTZVZHJCRDCDAF&marketplace=FLIPKART&q=study+table&store=wwe%2Fki7&spotlightTagId=default_BestsellerId_wwe%2Fki7&srno=s_1_3&otracker=search&fm=organic&iid=054fe7c1-dd3b-424b-9710-47bab7726969.OSTHMBREPTZVZHJC.SEARCH&ppt=None&ppn=None&ssid=mscg0xehi80000001782226029241&qH=b9c440e01d8e72a2"
+},
+
+{
+"id":69,
+"name":"Office Chair",
+"category":"Furniture",
+"original_price":11999,
+"offer_price":2999,
+"rating":4.5,
+"image":"images/office_chair.jpg",
+"buy_link":"https://www.amazon.in/IAFA-FURNITURE-Diego-Multi-Adjustment-Black/dp/B0D2XZ6SZC/ref=sr_1_7?dib=eyJ2IjoiMSJ9.YtAw9cfdd1NVhkN0CCgJDrl0D49kwE9Y0R7w_DdhR9GdGFe8BBLtrKMdgI-Ppu5oRhITx7KCm2MrjwWEaOd3vyEA7oW5XQgpvlKQl5xgdQgXzSYIrU78mOIljuTvZN1lsxXltdRMXy7993lmuwtXWWjBRrUoa8JSaYpPsSbF794ZlqYZHtPvk9D3b1-whixDF9hIS9zzNiV9WANPJLjCukzrx3clB7gLOR4VJ5vY_EKgJBxDZSbcQuhFQQgEAIGRpMx-WgMIKUUlcyS30IkIeb-GQ7nh18NAnBAzpFNam0I.AK4VCYA-LrJJFTJpLWVmNpKdxTCUabLdB_lNV58CehI&dib_tag=se&keywords=office%2Bchair&qid=1782223084&sr=8-7&th=1"
+},
+
+{
+"id":70,
+"name":"Casio Wrist Watch",
+"category":"Fashion Accessories",
+"original_price":1690,
+"offer_price":1019,
+"rating":4.5,
+"image":"images/casio_watch.jpg",
+"buy_link":"https://www.flipkart.com/casio-youth-analog-mw-240-1evdf-watch-men/p/itmffdsnhq83vunf?pid=WATFFDSNHGD9B9UR&lid=LSTWATFFDSNHGD9B9UR6D8FYM&marketplace=FLIPKART&q=casio+watch&store=r18%2Ff13&srno=s_1_15&otracker=search&fm=organic&iid=9d5d6750-667b-477f-b3f6-a786d8c300cb.WATFFDSNHGD9B9UR.SEARCH&ppt=sp&ppn=sp&ssid=c5d02s2za80000001782224969128&qH=bb34abb1c065f80a"
+},
+
+{
+"id":71,
+"name":"Leather Wallet",
+"category":"Fashion Accessories",
+"original_price":999,
+"offer_price":499,
+"rating":4.3,
+"image":"images/wallet.jpg",
+"buy_link":"https://www.amazon.in/Forest-Seattle-Blocking-Leather-Wallet/dp/B0B9X7NRFX/ref=sr_1_6?dib=eyJ2IjoiMSJ9.hrDlGeobRH_AOF3zr7lO8MpU7qKP15CQcSyR665xcPzOVx9E-1lhLDwmMgAt_Jh-sstU8a_9uiHMGdCZVtML6EiUQgoiA_nr-NqSOL04R3b6mDRfMcnXrWQru-ZE7l4Ihb299-TylVBI1peyaUUdcZYrskt7XXTtS8cit1lRbG6QQuLU-czJEhAis3DpJ-jn7kbdkCcAHZyshhmOlBmagqtnISY00gc-JiK9HF9uetqwGcep8VtOs15Y4R4g6swgDPd-LAMp0Zn6r_Chs5YtqXaXwxwh18kiSfB3TGTJMCo.Yjb9__SQsleos1zWDlsxFJEi8fJxlWh8I-_JqZEXLIc&dib_tag=se&keywords=wallet&qid=1782223600&sr=8-6&th=1"
+},
+
+{
+"id":72,
+"name":"Women Kurti",
+"category":"Fashion",
+"original_price":2799,
+"offer_price":279,
+"rating":4.4,
+"image":"images/kurtii.jpg",
+"buy_link":"https://www.myntra.com/kurtis/sangria/sangria-floral-printed-mandarin-collar-cotton-peplum-tops/28192864/buy"
+},
+
+{
+"id":73,
+"name":"Men Jeans",
+"category":"Fashion",
+"original_price":1999,
+"offer_price":445,
+"rating":4.4,
+"image":"images/jeans.jpg",
+"buy_link":"https://www.flipkart.com/kotty-regular-men-grey-jeans/p/itm695748da0341f?pid=JEAGZSP7M7ZCSZHB&lid=LSTJEAGZSP7M7ZCSZHBU58RC9&marketplace=FLIPKART&q=men+jeans&store=clo%2Fvua%2Fk58%2Fi51&srno=s_1_5&otracker=search&fm=organic&iid=en_RB1GCd0MXNmmQIvUgjBvC0C3neYcTIQYiD92JFMoGT5LwRrZRoF_MuKdslV9yYxIIWRMznstHzUyb4S3xb0VHEB_eu_MD0qa9vtrH-_RrH3Us8B0Loc2kNMB8zQL5tlQ&ppt=sp&ppn=sp&qH=f9dde838df779821"
+},
+
+{
+"id":74,
+"name":"Puma Sports Shoes",
+"category":"Footwear",
+"original_price":3999,
+"offer_price":1099,
+"rating":4.6,
+"image":"images/puma_shoes.jpg",
+"buy_link":"https://www.amazon.in/Puma-Maximal-Comfort-Gray-White-Walking/dp/B0B51H8SJ4/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.u6Na2xPkw0Woo2I-TlPmNbn8_fxF4J6lxMsq5tmlXueoiWJEh8IXtaV64xeZeZrAY_aW476swKR2ZxRUliJQLJ4lhmEU4tpnzbRfXiwlZB_N_uX2-kMN9oQ_C2zk5bK2bb27TS8JGXuoxUkjQTFGIBpNzcGVnYfdCWmUuIw4YQSnHdEXQucOaw12yxaPKUrbFv5qonKfqLGS1gZ8bQXpj0ioY2ERNZlSyUH-uVSecxNTgRAZa_50TNBzv7k2G7hOESVHeTrO3xAGQr9dbN2JT1edBKzpDoi-aZQVXUFx2v4.I_Cz43TqDKcDffTS-QvWtOCeQb_kkVcs6dDP8VQG24g&dib_tag=se&keywords=puma%2Bshoes&qid=1782224336&sr=8-6&th=1&psc=1"
+},
+
+{
+"id":75,
+"name":"Crocs Slippers",
+"category":"Footwear",
+"original_price":1799,
+"offer_price":359,
+"rating":4.5,
+"image":"images/crocs_slippers.jpg",
+"buy_link":"https://www.myntra.com/flip-flops/crazyly/crazyly-boys-printed-croslite-clogs/42274248/buy"
+},
+
+{
+"id":78,
+"name":"Bajaj Air Cooler",
+"category":"Home Appliances",
+"original_price":16999,
+"offer_price":6999,
+"rating":4.4,
+"image":"images/bajaj_cooler.jpg",
+"buy_link":"https://www.amazon.in/RR-HC-70-Deflection-Compatibility/dp/B0DS2K241Q/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.AVv1eTsDEO-cjfrvSIJdHZC_irj3lF8d6r5ltJkeP8UQhLYB2gj8pe6529qd1kk9IYwPEHyU31WDUp31ocDa_1eF7xVEqOZyIGrivJXHPjF4yjWx8UOWkjcyR0YLqeQvdx3nRAjx97ICT-xp3KUP0J3nQueByEBmPCfwAYgYyq3nWYmUOAfira-Gu5hW_er9oaOLqimslfRJgOif2xqitQoN463ly4_Q3s3tZdMC1UU.DySlIQOu0kgFDvkdm6yTWfzAij-9JaUkysM8J7fOHjM&dib_tag=se&keywords=bajaj%2Bair%2Bcooler&qid=1782225037&sr=8-1-spons&aref=4OJKdZcy1Z&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+},
+
+{
+"id":79,
+"name":"Philips Trimmer",
+"category":"Personal Care",
+"original_price":1999,
+"offer_price":498,
+"rating":4.5,
+"image":"images/philips_trimmer.jpg",
+"buy_link":"https://www.flipkart.com/misuhrobir-trimmer-men-fully-waterproof-90-min-runtime-5-length-settings/p/itmf6a7a825dd070?pid=TMRHYFUUHWESR6XJ&lid=LSTTMRHYFUUHWESR6XJMDURO3&marketplace=FLIPKART&q=philips+trimmer&store=zlw%2F79s%2Fby3&srno=s_1_2&otracker=search&fm=organic&iid=en_aXKEEULoIa-XOqu4PnRAygdDp8sAE90kASkke1b_8kp_7_hrkpKiaIGk6_MvaNWT_rMteo3xNI8C7TqUXxfMxZgCcra8Z9UtbaVt4lVUFTpfMGW_1eudhftlLM_xm9rI&ppt=sp&ppn=sp&ssid=5er5rc68280000001782226978493&qH=dc098acd2ef82486"
+},
+
+{
+"id":80,
+"name":"Nova Hair Dryer",
+"category":"Personal Care",
+"original_price":1099,
+"offer_price":831,
+"rating":4.3,
+"image":"images/hair_dryer.jpg",
+"buy_link":"https://www.amazon.in/Philips-HP8100-46-Dryer-Purple/dp/B00KCD8NFY/ref=sr_1_6?dib=eyJ2IjoiMSJ9.KfxgAf0INBZz3Vvhqq-bzw45kc6Bh2aS3QbQO6yCe_bJl8dBsaVfNrtRg3VeC0y4wKJWFQgHXyKOxgQTgX_PLHro_tBUzQ8JmQ3BivQesHVbZ37-sFrfczlsB61zp8bl5spBbXOaE69qCGQmVZmMBjXJN0f9zunaDVPo9e9OkVFWVaUZfCykh5z8U3oSwoL9vJyqRdbM47F8gPTfucZrHkLL-DfsD-3GXkvrgKQsbI9to2gPc_n-AouMS0bRMoVxKpB5FBBtdjH-wPkpNBmNkrMiKvT5X0q9FCHYT-jXDXE.QZMzZlHuXEJu0ZwK3lwzTC9uwxc5dC9GhOh_wqfsbP0&dib_tag=se&keywords=hair%2Bdryer&qid=1782225335&sr=8-6&th=1"
+},
+
+{
+"id":81,
+"name":"Maybelline Lipstick",
+"category":"Beauty",
+"original_price":450,
+"offer_price":292,
+"rating":4.5,
+"image":"images/maybelline_lipstick.jpg",
+"buy_link":"https://www.myntra.com/lipstick/lakme/lakme-forever-matte-lightweight--transferproof-16hr-liquid-lipstick-56ml---nude-hue/11757178/buy"
+},
+
+{
+"id":82,
+"name":"Mamaearth Face Wash",
+"category":"Beauty",
+"original_price":299,
+"offer_price":269,
+"rating":4.4,
+"image":"images/facewash.jpg",
+"buy_link":"https://www.amazon.in/Minimalist-Regulation-Sulfate-Free-Exfoliation-Combination/dp/B096PJMGPL/ref=sr_1_14?dib=eyJ2IjoiMSJ9.nkKTIFJ1XyTJROLIMLizy_IFNZJtZapIIzKtijLbNihob9yTnn-Qd2Go1F0IHwrk5aByOlL8pRA1Z5EtNAqUDZu3eBYOv9wzRDoxEW9PFzBqeAubxpL9aa-EoErT4H0HxNzx9cHejkghlAsXLh8L3bihytvZAeF5B43JasouQsR6yBV78md7GR_llIU3JlY370Y_eiT4sK-XFc-_Xwp2UmRH-9Z5EFKP9hK_dhPTuld2tUu5CNqNiyp10e7awk81FDI9q5uXVOCuKZ3e9nCmreJiyRUzgjWrLtkz3uoWgQY.a4YznLvn3YmRjSTpZKZFdYxFNfABxrv4RImEa_Ivnnk&dib_tag=se&keywords=face%2Bwash&qid=1782226361&sr=8-14&th=1"
+},
+
+{
+"id":83,
+"name":"Logitech Gaming Mouse",
+"category":"Computer Accessories",
+"original_price":499,
+"offer_price":209,
+"rating":4.6,
+"image":"images/gaming_mouse.jpg",
+"buy_link":"https://www.flipkart.com/zebronics-zeb-uzi-wired-ambidextrous-optical-gaming-mouse/p/itm19c6d95ca59fc?pid=ACCHA8BBYYQHRBDH&lid=LSTACCHA8BBYYQHRBDHUQE4OQ&marketplace=FLIPKART&q=gaming+mouse&store=6bo%2Ftia%2F8pp%2Fp0w&srno=s_1_24&otracker=search&fm=organic&iid=09e0a75e-45f5-4795-bb96-291787099a0b.ACCHA8BBYYQHRBDH.SEARCH&ppt=sp&ppn=sp&ssid=vfs2l9xy3k0000001782228337047&qH=2b167df510df81b1"
+},
+
+{
+"id":84,
+"name":"HP Wireless Keyboard",
+"category":"Computer Accessories",
+"original_price":2499,
+"offer_price":1799,
+"rating":4.4,
+"image":"images/hp_keyboard.jpg",
+"buy_link":"https://www.amazon.in/HP-Multi-Device-Bluetooth-Resistant-Auto-Detection/dp/B0BR3YKQQ1/ref=sr_1_1_sspa?crid=3OAZD0WWLBUXE&dib=eyJ2IjoiMSJ9.Bvkcq4mBcxnx_9BwAeVvECay3Yv4algN7PjvEWyczYsKe4Snz3a_LgGyvWyNokl0hJZYmgi-nJNvagcPr7l8QAmXQG3GLxXYgpxdc31QYVsiOy-fjCH-8tX9gNPvp1cysEz1HfY-0m5HPo4k_g-7q6NvzGBGxGZ5L1wMgJMz8y_lqDrrMcpO8_BoXAJo_l93cGxWBG_Y1EVMpiDt_xtrF0CKLJm0iwwxdvvXfzYTYkM.C8PWiKxhwKiUGnHG-nMGYGXEtv2OZqt0mxtgSpX6Wn4&dib_tag=se&keywords=hp%2Bwireless%2Bkeyboard&nsdOptOutParam=true&qid=1782226715&sprefix=hp%2Bwireless%2Bkeyboard%2Caps%2C363&sr=8-1-spons&aref=M617uaJy2X&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+},
+
+{
+"id":85,
+"name":"Samsung 24 Inch Monitor",
+"category":"Monitors",
+"original_price":38000,
+"offer_price":14339,
+"rating":4.5,
+"image":"images/samsung_monitor.jpg",
+"buy_link":"https://www.flipkart.com/samsung-68-58-cm-27-inch-curved-wqhd-led-backlit-va-panel-gaming-monitor-lc27g55tqbwxxl/p/itm095cbf5865363?pid=MONGFHE9QUPVDY7W&lid=LSTMONGFHE9QUPVDY7WHK7GNH&marketplace=FLIPKART&q=samsung+monitor&store=6bo%2Fg0i%2Funb%2Fpp8&srno=s_1_15&otracker=search&fm=organic&iid=60f14a4b-e875-48c8-b554-b90b78d7791e.MONGFHE9QUPVDY7W.SEARCH&ppt=None&ppn=None&ssid=vyd71st2ps0000001782226832058&qH=0f67401d930ec292"
+},
+
+{
+"id":87,
+"name":"Mi Power Bank 20000mAh",
+"category":"Electronics Accessories",
+"original_price":2499,
+"offer_price":1499,
+"rating":4.5,
+"image":"images/powerbank.jpg",
+"buy_link":"https://www.flipkart.com/urbn-20000-mah-22-5-w-compact-pocket-size-power-bank/p/itm1e8f43e4faf35?pid=PWBH7E3MHGD8UHSF&lid=LSTPWBH7E3MHGD8UHSFHWOUUE&marketplace=FLIPKART&q=power+bank&store=tyy%2F4mr%2Ffu6&spotlightTagId=default_BestsellerId_tyy%2F4mr%2Ffu6&srno=s_1_9&otracker=search&fm=organic&iid=a61c41fd-4d85-4e41-900a-a5a702a01939.PWBH7E3MHGD8UHSF.SEARCH&ppt=sp&ppn=sp&ssid=uo25tjb8yo0000001782229111847&qH=93838e3a65b51e46"
+},
+
+{
+"id":88,
+"name":"Boat Fast Charger",
+"category":"Electronics Accessories",
+"original_price":789,
+"offer_price":349,
+"rating":4.4,
+"image":"images/charger.jpg",
+"buy_link":"https://www.amazon.in/Charge-Protection-Detection-Samsung-Android/dp/B0G596W4WP/ref=sr_1_5?crid=2HUM3FTGCBSH7&dib=eyJ2IjoiMSJ9.hT1eYqRGHPrKe7nWvi6bJcUSS0uPmoApElj5wpirh9pdwoCQxHSbJZo9iCFFqLknVHb1ZIX3yONToOWWyBP3m1Fu8z7NMx4g9cTroUtGjroXLamnh4as5EB1urJc6yEZoA9JalT0xsV1BtJBFp50wjCBXzSZ5tYnSux3NgzZbEwvljSV22Olu8pSuzt77B7Z2DCpiJ4IZq0KlgBd9yTT0X90MOaPrZ5wtVPwJphEsEI.waFAHjK_qWbXzXCtlEsGLBa9CEzOqPrL94KvhvbMidQ&dib_tag=se&keywords=boat%2Bfastest%2Bcharger&qid=1782227525&sprefix=boat%2Bfastestcharger%2Caps%2C443&sr=8-5&th=1r"
+},
+
+{
+"id":89,
+"name":"Noise Earbuds",
+"category":"Electronics",
+"original_price":3999,
+"offer_price":1499,
+"rating":4.4,
+"image":"images/noise_earbuds.jpg",
+"buy_link":"https://www.flipkart.com/noise-buds-vs102-plus-70-hrs-playtime-environmental-cancellation-quad-mic-bluetooth/p/itmb657fa670c4b9?pid=ACCGNX3S5P7TG76G&lid=LSTACCGNX3S5P7TG76GY0LIDR&marketplace=FLIPKART&q=noise+earbuds&store=0pm%2Ffcn%2F821&srno=s_1_1&otracker=search&fm=organic&iid=41960a97-35e9-41bb-a132-7d64da6417e5.ACCGNX3S5P7TG76G.SEARCH&ppt=sp&ppn=sp&ssid=ygzf56xups0000001782229555428&qH=511b2378a8e0d8b1"
+},
+
+{
+"id":90,
+"name":"Realme Bluetooth Speaker",
+"category":"Electronics",
+"original_price":6499,
+"offer_price":3999,
+"rating":4.3,
+"image":"images/bluetooth_speaker.jpg",
+"buy_link":"https://www.amazon.in/Outdoor-Hi-Quality-Playback-Waterproof-Wireless/dp/B0DY1BW5Q3/ref=sr_1_1_sspa?crid=2DLMYWEVY45VA&dib=eyJ2IjoiMSJ9.zGPRcpTZJqqQaz2qiwbRJUSG5ea6sIsCWBhXGUag7OzU-uAH1beCgnnIMGgIpgsiVObNYsxu10vYGipJPgtPwIzW95f9FO019KcLehkm9ybqBe_4slq0NiYsxFlLQEeHFDzoQM83kBhEIc2gExSzcJhnf-wSNV4QyYRu3flOyyWK1UjaQPb4vYeBUQRsZc3yoBE-kmVGBI7HbgcewxjNMfKqSwaaoYg5SEc6d55omfA.bbuRsCDzjMGq3KbH4jhJIyz9tNqW8Yc8I74bmefVLa0&dib_tag=se&keywords=realme%2Bbluetooth%2Bspeaker&nsdOptOutParam=true&qid=1782227940&sprefix=realme%2Bbluetooth%2Bspeaker%2Caps%2C365&sr=8-1-spons&aref=YFkCBY0XvT&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+},
+
+{
+"id":92,
+"name":"Leather Belt",
+"category":"Fashion Accessories",
+"original_price":1499,
+"offer_price":394,
+"rating":4.3,
+"image":"images/belt.jpg",
+"buy_link":"https://www.amazon.in/CREATURE-Pu-Leather-Reversible-Color-Black-BL-02/dp/B06XHGHKQ7/ref=sr_1_4_sspa?dib=eyJ2IjoiMSJ9.1QBWe2AQ49Apnglo5Udj0nc3jOU4HUELRKFyug292GjZPWYPbQvmbxf5ncNI1K6a9_27QwCg2SUg77uvrM5eVq--4JrisGpaQ-7ehXrh-2gwwprpTYOLum931IAgwe4M7Kpl2mozQzjLBJtLXCBGXeagRVsXrlmu1RERmVhFME9R2unYXUDZcxA1O23gBS47fjhP9Q9N0fxT32m54QMaInkNM-RZOzyb4MvKgPCVhscE2CNJ9a10_ajLDyAuMByYtJt6-gkufkg6xhWdEA40gIwmJGyH1e1pHRLu39dlLe8.y9RGvJ6k8PkFLLx1TAxL15o7YGLk1RTo4zcCd8GazYg&dib_tag=se&keywords=belt&qid=1782228191&sr=8-4-spons&aref=7uQliOgij8&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+},
+
+{
+"id":94,
+"name":"Women Handbag",
+"category":"Bags",
+"original_price":415,
+"offer_price":215,
+"rating":4.5,
+"image":"images/women_handbag.jpg",
+"buy_link":"https://www.meesho.com/women-purse-purse-for-women-handbag-for-women/p/6x7tn0"
+},
+
+{
+"id":95,
+"name":"Travel Trolley Bag",
+"category":"Bags",
+"original_price":5000,
+"offer_price":999,
+"rating":4.5,
+"image":"images/travel_bag.jpg",
+"buy_link":"https://www.amazon.in/Safari-Polyester-Sprinter-Trolley-Warranty/dp/B0FDG7HRNS/ref=sr_1_6?crid=1C0MY2YZ6IUYU&dib=eyJ2IjoiMSJ9.MLbyXxlHxB9LHWCPeUHIX85m7d2yGwbFTZNu5cWdGCv74fZ1f8r0KC9-hvDdQM0s7_T7XHyuLTqeGScKwmf4kLHiSAWrdgXZa-tcP2uYiTkjbAr_bFQLHB2G_KaEQ2y6E7twQTw7or7SC8EcDWaFTvkhctTS1D4PbttGLBJpJqSmeSMMVjdDQm1HPvRk4gA3KVWP4X8O_bfPX-dfdMR7rEH6mUKf5AxYWYqdQj1k51LaJQGgapZTcIXmwU8S2f1V-hNxLUFUt0nPFVqJXAXhPaDMAD0ES8uYU5tmmbcfXJE.nFEmyJ-pKmOtT8yEzjGyrB8Z1G7zLEM-RazVkaucH7Q&dib_tag=se&keywords=travel+trolley+bag&qid=1782280500&sprefix=travel+trolley+bag%2Caps%2C674&sr=8-6"
+},
+
+{
+"id":96,
+"name":"Bedsheet Combo Set",
+"category":"Home Decor",
+"original_price":999,
+"offer_price":199,
+"rating":4.4,
+"image":"images/bedsheet_combo.jpg",
+"buy_link":"https://www.flipkart.com/home-garage-microfiber-double-flat-180-tc-3d-printed-1-bedsheet-2-pillow-covers/p/itm2c8594e264e2b?pid=BDSHC7JF9HBHV92K&lid=LSTBDSHC7JF9HBHV92KAMFEAR&marketplace=FLIPKART&q=bedsheet&store=jra%2Fknw%2Fqcw&srno=s_1_4&otracker=search&fm=organic&iid=d6d053a7-6964-4382-9a20-4765baade07f.BDSHC7JF9HBHV92K.SEARCH&ppt=sp&ppn=sp&ssid=tj2kt01p8g0000001782282421901&qH=359e4418d306e60f"
+},
+
+{
+"id":97,
+"name":"Decorative Wall Clock",
+"category":"Home Decor",
+"original_price":1999,
+"offer_price":327,
+"rating":4.3,
+"image":"images/wall_clock.jpg",
+"buy_link":"https://www.amazon.in/Webelkart-Ganesha-Wall-Clock-Copper-12/dp/B08V8H7DBD/ref=sr_1_9?crid=3KYKND09CRCAB&dib=eyJ2IjoiMSJ9.MOh2mTCW5BE9lfIl1_deEkF-cqQrGjQfVrMcbSmal1iRQlpgYmcyqoP-osuxXGu5xlRxnYm0Ds17-qDKqBSkp5ucEyHUGQQtwgDNInR7xWmk5tKS97w1XpK__D6XN3Cn4x3wYguxbwBaCc9q4E2KzF1To1D4DBAWA523DGvEUm_3w-meV7LCS1CEZO9P2ZGW-txIPSx0mAan_iGzCKv3pzCaLUVQm8vkKBSSG1WE5EayuLWn5WXerUrqCgyQGDtUSrtObV-SVhW_a0oc7DA7WnsMFovI_Ac12xCMkLu5Pck.SM5A9tbTNjJqqasAhAppXs31PCJGz47LdzaU7mC7huU&dib_tag=se&keywords=decorative+wall+clock&qid=1782280786&sprefix=decorative+wall+clock%2Caps%2C340&sr=8-9"
+},
+
+{
+"id":98,
+"name":"Plastic Storage Box",
+"category":"Home Essentials",
+"original_price":799,
+"offer_price":192,
+"rating":4.2,
+"image":"images/storage_box.jpg",
+"buy_link":"https://www.flipkart.com/hoomora-75l-foldable-laundry-basket-lid-clothes-kids-toys-hamper-large-storage-box/p/itm6833710fa4879?pid=SOXHHRNHVXZZRZMH&lid=LSTSOXHHRNHVXZZRZMHI3S65B&marketplace=FLIPKART&q=storage+box&store=h1m%2Fiee%2Fzom&srno=s_1_3&otracker=search&fm=organic&iid=45f36018-bdb9-41ff-baad-dee7156e9488.SOXHHRNHVXZZRZMH.SEARCH&ppt=sp&ppn=sp&ssid=9n0bp70sxc0000001782282727069&qH=3fc4c804455082fd"
+},
+
+{
+"id":99,
+"name":"Milton Lunch Box",
+"category":"Kitchen",
+"original_price":1999,
+"offer_price":899,
+"rating":4.5,
+"image":"images/lunch_box.jpg",
+"buy_link":"https://www.amazon.in/Microwave-Containers-Plastic-Chutney-Insulated/dp/B0BMGNK4SP/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.u27XtkHrJkITiSxAlWQWYQ8pWIZFQTINv2itv6-R-5KPSHKBMrU2Iqj_HP97VZfIPqF8QF3YV7JX6HDTaJSD8Hqmp-Tm2X_ikcfqHcBDer9LtirX2JCJSt1mifTH-SYMmWvdbtE29XOIHGwWaD2EG9-wtP6JEiJJNjhB4q2sMUbD2MyFNbzpserU6UBIQTwD5xUESXF9ekzHfcygaHhJ4iwNEGPV_rpKL8152WTRkqalwluHA8bwnZsbgZDRAGATx3Zzq8HRjK_oiaT9zaqGjpe_3JkI3oaZL18dsROD8bU.Lbqs2Z8aKiJx4EkPvLg4bFswDOizGNcc4JSSBdRVr1Q&dib_tag=se&keywords=lunch%2Bbox&qid=1782281066&sr=8-1-spons&aref=rIACCOJLgE&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
+},
+
+{
+"id":100,
+"name":"Prestige Rice Cooker",
+"category":"Kitchen",
+"original_price":2795,
+"offer_price":2095,
+"rating":4.5,
+"image":"images/rice_cooker.jpg",
+"buy_link":"https://www.flipkart.com/prestige-delight-prwo-1-8-red-700w-1-aluminium-cooking-pan-electric-rice-cooker-steaming-feature/p/itm50a98b2429eb4?pid=ECKHKXWUNPHEDQCA&lid=LSTECKHKXWUNPHEDQCA6BNHGM&marketplace=FLIPKART&q=+prestige+rice+cooker&store=j9e%2Fm38%2F9m9&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=109c5107-c95c-4b16-bda9-c92a646eadf0.ECKHKXWUNPHEDQCA.SEARCH&ppt=sp&ppn=sp&ssid=c0awgnj5sw0000001782283011306&qH=2cc787661a91eb96"
+},
+{
+"id":101,
+"name":"Whirlpool Double Door Refrigerator",
+"category":"Home Appliances",
+"original_price":33150,
+"offer_price":27990,
+"rating":4.5,
+"image":"images/whirlpool_refrigerator.jpg",
+"buy_link":"https://www.amazon.in/Whirlpool-INV-278-BLACK-CONV-Y/dp/B0GHMN7MY8/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.LgUTGD2ir3CGyuUDeIoQ29y4KM8-4b4-Tc3qDj65VJcdB8ReNZ-wd8P7OV7r2vmQHVCe_kh24O_y0iKU2n0HzYUFzKg2bgjSMHl9TgAVrLyraD5mKK7vmDbuuopds9rq_WulScJ25RsmwbSC3K4tgoFHkcppSmU_JJUVHNRWsYoVDLdvzuH26Qm4XA_GtaLBSLaqgML1v75iU-OtlCG9k8jeDL6CsPx5Ts1BFPKrLfY.OSTjuTcLNGAMlE6zvPF-_Y83Ow-5IPWNMpRf7cAaS2g&dib_tag=se&keywords=whirlpool+refrigerator&qid=1782281412&sr=8-2-spons&aref=RgX1bgBxov&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+},
+
+{
+"id":102,
+"name":"Morq Refrigerator",
+"category":"Home Appliances",
+"original_price":82990,
+"offer_price":32990,
+"rating":4.4,
+"image":"images/marq.jpg",
+"buy_link":"https://www.flipkart.com/marq-flipkart-584-l-frost-free-side-refrigerator-smart-control-panel-fresh-lock-multi-airflow-technology/p/itmfef95e353c9fc?pid=RFRH6WFFYG3DC4DT&lid=LSTRFRH6WFFYG3DC4DTSV30WG&marketplace=FLIPKART&q=godrej+refrigerator&store=j9e%2Fabm%2Fhzg&srno=s_1_2&otracker=search&fm=organic&iid=en_uvjrGMHrKFqs3XqhgWLkpOH31UfiEqGhjOcB3BT5dWBLhMrNyuO3JVemgjhHkJb75fNdeQulbH9l3GYapftKBB80MNmxsRV6VTNJcr41L8OPzlyIJAZ1TkyyHEwgSVcK&ppt=sp&ppn=sp&ssid=ad0ryontc00000001782283396733&qH=2059970ff6c1e4a9"
+},
+
+{
+"id":103,
+"name":"Fire-Boltt Smart Watch",
+"category":"Electronics",
+"original_price":18999,
+"offer_price":1099,
+"rating":4.3,
+"image":"images/fireboltt_watch.jpg",
+"buy_link":"https://www.amazon.in/Fire-Boltt-Stainless-Bluetooth-Assistant-Monitoring/dp/B0DT9ZPRRB/ref=sr_1_3?dib=eyJ2IjoiMSJ9.I8CSFfjjdE-76xN0emDcsXGeQHXl2AbzcMdqNjDJ-gDlyUkfuTai2nR_0K-9xorU4gWA06UAYsSJx8TuJ6Usw_tuqhhWheLwpv46xrnm0dOfEou-Z09qtd9jzGVjTlj9Gkm7Zb1-28ysMlmvxQMESzVL5RvT59-Y4vz6EEBd6_sRLwGYkZphTf2pOqTq8V0YnpegFSSEhp6q8nu9XJKxT-m1qmq2fKD3R1BdiP1UOkI.4bLp5P2A2KMR4ECu5mqaGUZ3o00UPAMZ0HLzHsmaJLI&dib_tag=se&keywords=fire%2Bboltt%2Bsmart%2Bwatch&nsdOptOutParam=true&qid=1782281772&sr=8-3&th=1"
+},
+
+{
+"id":105,
+"name":"Canon DSLR Camera",
+"category":"Cameras",
+"original_price":3249,
+"offer_price":6999,
+"rating":4.6,
+"image":"images/canon_dslr.jpg",
+"buy_link":"https://www.amazon.in/Simpex-Release-arca-Type-Filmmaking-Threaded/dp/B0GNF2MC7N/ref=sr_1_22_sspa?dib=eyJ2IjoiMSJ9.JewVe1IZDIGvnXWga_G_r7-Lk7J6eedHAvV89MP2z9ZydoSp41P-oCoXO7G_iW-7QFmPmiQxdhUKj1u3YDwvGueQrtHrNK7bH7acuS1JyGVsrz4wI1XQ_zuZKgPBMb2fXT_efldv4oi271NzSGbITdVM5d33WtfHBnI9joRtERxP7EX0Tzq4x0tXkMbCaG-6uravFwHI-yoDMnApXUxqFyg5UHzLGVlHHUYJ63ca1gM.wINL6oIzJr6tiybVSbZ-oPANBNjT8D74vwyjyqbh3xs&dib_tag=se&keywords=canon+dslr&qid=1782281973&sr=8-22-spons&aref=RDTd6FuBuT&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1"
+},
+
+{
+"id":106,
+"name":"Philips Hair Straightener",
+"category":"Personal Care",
+"original_price":3145,
+"offer_price":2499,
+"rating":4.4,
+"image":"images/hair_straightener.jpg",
+"buy_link":"https://www.flipkart.com/philips-nourishcare-no-heat-damage-vitamin-e-morrocan-argan-oil-serum-strips-bhs503-40-hair-straightener/p/itm3b020449e1181?pid=HSTGWFXYJJNP4MDB&lid=LSTHSTGWFXYJJNP4MDBLDLOAY&marketplace=FLIPKART&q=+philip+hair+straightener&store=zlw%2F79s%2Fdk5&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=1b8cbe9e-e30d-4389-a7b2-b090778c8abc.HSTGWFXYJJNP4MDB.SEARCH&ppt=sp&ppn=sp&ssid=x4vxv6hds00000001782284019537&qH=a744489615c70cb9"
+},
+
+{
+"id":108,
+"name":"Prestige Induction Stove",
+"category":"Kitchen",
+"original_price":4999,
+"offer_price":3095,
+"rating":4.5,
+"image":"images/induction_stove.jpg",
+"buy_link":"https://www.flipkart.com/prestige-1200-w-induction-cooktop-push-button/p/itm00d76d7997751?pid=ICTHHG7FWZPKR2JQ&lid=LSTICTHHG7FWZPKR2JQSSSP8X&marketplace=FLIPKART&q=+prestige+induction+stove&store=j9e%2Fm38%2F575&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=d343625d-830f-4833-99c2-81e3709e91e8.ICTHHG7FWZPKR2JQ.SEARCH&ppt=sp&ppn=sp&ssid=ho8xvwi48w0000001782284248974&qH=f619ebbbda755412"
+},
+
+{
+"id":109,
+"name":"Eureka Forbes Vacuum Cleaner",
+"category":"Home Appliances",
+"original_price":10000,
+"offer_price":3825,
+"rating":4.5,
+"image":"images/vacum_cleaner.jpg",
+"buy_link":"https://www.amazon.in/Cleaner-Capacity-Suction-Function-Cleaning/dp/B07SLNG3LW/ref=sr_1_7?crid=2HYJWERTII4QW&dib=eyJ2IjoiMSJ9.8MeymX1pYzzNcGJdSsObsQ5AVSJOYxlfTE83o5vmlqUtJM9JoyoJG63EYjqyiR9SkoYJcsHkORDoByarY23FVbrbmod77FJYFOgAUKuNAcA5m387rCwRaiyba4zOhp4xMlxJWCJBELWrKsMl_eZcMn75r5xC6MuIymxlBxPRk-VgIPxWq-RiUrmf5QZz1ozo8X8xAtbP9gFSmqJuX1LeIKkuZthscGVqp737Ks241TM.H1-g3earx7Z_0pIgI3oCblzh_ooDw-LqzUg1nwXPyDE&dib_tag=se&keywords=eureka%2Bforbes%2Bvacuum%2Bcleaner%2Bfor%2Bhouse&qid=1782282613&sprefix=eureka%2Bforbes%2Bvacuum%2Bcleaner%2Caps%2C454&sr=8-7&th=1"
+},
+
+{
+"id":111,
+"name":"Logitech Webcam",
+"category":"Computer Accessories",
+"original_price":7900,
+"offer_price":2799,
+"rating":4.5,
+"image":"images/webcam.jpg",
+"buy_link":"https://www.amazon.in/Cleaner-Capacity-Suction-Function-Cleaning/dp/B07SLNG3LW/ref=sr_1_7?crid=2HYJWERTII4QW&dib=eyJ2IjoiMSJ9.8MeymX1pYzzNcGJdSsObsQ5AVSJOYxlfTE83o5vmlqUtJM9JoyoJG63EYjqyiR9SkoYJcsHkORDoByarY23FVbrbmod77FJYFOgAUKuNAcA5m387rCwRaiyba4zOhp4xMlxJWCJBELWrKsMl_eZcMn75r5xC6MuIymxlBxPRk-VgIPxWq-RiUrmf5QZz1ozo8X8xAtbP9gFSmqJuX1LeIKkuZthscGVqp737Ks241TM.H1-g3earx7Z_0pIgI3oCblzh_ooDw-LqzUg1nwXPyDE&dib_tag=se&keywords=eureka%2Bforbes%2Bvacuum%2Bcleaner%2Bfor%2Bhouse&qid=1782282613&sprefix=eureka%2Bforbes%2Bvacuum%2Bcleaner%2Caps%2C454&sr=8-7&th=1"
+},
+
+{
+"id":113,
+"name":"SanDisk Pendrive 64GB",
+"category":"Storage Devices",
+"original_price":1100,
+"offer_price":740,
+"rating":4.4,
+"image":"images/pendrive.jpg",
+"buy_link":"https://www.amazon.in/SANDISK-Cruzer-Pendrive-Warranty-SDCZ50-064G-I35/dp/B00BX5FOCK/ref=sr_1_3?crid=1VHCFT0ZGXPLU&dib=eyJ2IjoiMSJ9.kQ4rTSRwRIVFXReOp89AIxv2ZFGz3fa1LJxwBMkRN9eWXmoR3wSFAlHdRfn4EdseZc-Wy8EDzsKOdSsO1YYHTyRQKfvTYy0RNDju_2BPZJLy_EIo1sYGgV9OIVENBsuN7bbpoCapDF4Yjbwgqhr_gAufNAhZgsqo47D_HgDu2TJTrLGKzOmO8y2tmNMOgMqKGtf7Jf05GnkAQKErHajDL2TPHnmkeeO9VH6emXrrHTk.2Oua0ifbS122ouQ58nyiRCWU0ne9KMi6R40i8ZvdeRw&dib_tag=se&keywords=sandisk%2Bpendrive%2B64gb&qid=1782283127&sprefix=sandiskpendrive%2B64gb%2Caps%2C744&sr=8-3&th=1"
+},
+
+{
+"id":114,
+"name":"Wooden Queen Size Bed",
+"category":"Furniture",
+"original_price":27999,
+"offer_price":11999,
+"rating":4.5,
+"image":"images/bed.jpg",
+"buy_link":"https://www.flipkart.com/flipkart-perfect-homes-opus-engineered-wood-queen-box-bed-213-cm-x-162-3-6-99-ft-5-32-ft/p/itm53d2aec7199df?pid=BDDHGHHN5YYZSYHY&lid=LSTBDDHGHHN5YYZSYHYCH4MCI&marketplace=FLIPKART&q=wooden+bed&store=wwe%2F7p7%2F4yf&spotlightTagId=default_BestsellerId_wwe%2F7p7%2F4yf&srno=s_1_4&otracker=search&fm=organic&iid=b1eb3b37-87f0-40fa-865d-76d8984161e4.BDDHGHHN5YYZSYHY.SEARCH&ppt=sp&ppn=sp&ssid=fp9riwzfww0000001782285062864&qH=13590b1837de8fba"
+},
+
+{
+"id":115,
+"name":"Dining Table Set",
+"category":"Furniture",
+"original_price":12999,
+"offer_price":9149,
+"rating":4.4,
+"image":"images/dining_table.jpg",
+"buy_link":"https://www.amazon.in/Callas-Dining-Table-Compact-Kitchen/dp/B0FJRX78KB/ref=sr_1_5?dib=eyJ2IjoiMSJ9.nUarFWOorvtnlMOttV4-2PxJtJUgX1OhZUjYJlYicXU9plrBrGjEAjl9WF8GNDUng3CqT8038QjhGCe5qqpaoQ_cu87BytJJ1FAzRwZqkc7Gx60febsZxZRL7z3Ph5ha3zRIYhuNoQV4EEKXLwJQEiaAv-m-2Rk3Tdk_7UQfg0eunOqy3Vs4HohmwPQOLPH6BCp562R2NKeQqW17RoFu4HbfkpV6rgYf1tWCinIks7GyxZJEgkD5GzM-FcTGybGd4rPhrKJhL_-O7rJyg4hgvIYbAR7lZSPkr7xtnWXDRI0.06WB5ZX-GMgV3rf4rTL_pUvLLNnzctMqltJsHDvezbQ&dib_tag=se&keywords=dining+table&qid=1782283337&sr=8-5"
+},
+
+{
+"id":117,
+"name":"Jewelry Set",
+"category":"Jewellery",
+"original_price":5495,
+"offer_price":816,
+"rating":4.4,
+"image":"images/jewelry_set.jpg",
+"buy_link":"https://www.myntra.com/jewellery-set/zaveri+pearls/zaveri-pearls-set-of-2-gold-plated-stone-studded-jewellery-sets/34335028/buy"
+},
+
+{
+"id":118,
+"name":"Makeup Kit",
+"category":"Beauty",
+"original_price":1999,
+"offer_price":522,
+"rating":4.4,
+"image":"images/makeup_kit.jpg",
+"buy_link":"https://www.amazon.in/Fashion-Brushes-Compact-Lipstick-Foundation/dp/B0BTY95BDQ/ref=sr_1_13?dib=eyJ2IjoiMSJ9.g3syPTk4ZXLolHnLVXENzdTU4hse3RTMuR95Q5GlDcAkjQyNFXe4iqPToL9J4MocDKB6jMnb7Y_fHO2Lac6QZq7kcdScX_uLMN8UojNSnGzFB8QY0m0Yw8gBGiG1tZPzEhEIni51KE8x-zJroYHlDJhbDEU12ybCdRCcnJK7DnJZ6I2VRyvsoRQuJXrDseGjcweMCbOAfu-azYyhF5_wbido6O5iXf9gbRzToyCJ8S5mY9Pzwai-NuX4PHXpWeFqktP0Z0Ysp0giHqmSAJdzuG4tLj7qvzkEiIybeOQG-Sc.UvxcIxL777gsXLdjbNAVl0_gjPLCvmkcCfy43iIcmK0&dib_tag=se&keywords=makeup+kit&qid=1782283748&sr=8-13"
+},
+
+{
+"id":120,
+"name":"Boat Power Bank",
+"category":"Electronics Accessories",
+"original_price":1999,
+"offer_price":499,
+"rating":4.4,
+"image":"images/boat_powerbank.jpg",
+"buy_link":"https://www.amazon.in/gp/aw/d/B0B5LRKYVH/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=1000e9193241f51b85199ebb8dac8604&hsa_cr_id=0&qid=1782283878&sr=1-1-e0fa1fdd-d857-4087-adda-5bd576b25987&aref=oM2gZr6ur8&ref_=sbx_s_sparkle_sbtcd_asin_0_img&pd_rd_w=w3KcV&content-id=amzn1.sym.9269eab1-ae85-443b-9ec2-b2fa4ebaad05%3Aamzn1.sym.9269eab1-ae85-443b-9ec2-b2fa4ebaad05&pf_rd_p=9269eab1-ae85-443b-9ec2-b2fa4ebaad05&pf_rd_r=7T0J8W9BWQSDBVBYRZSK&pd_rd_wg=i7T27&pd_rd_r=a1f35a20-0873-47c9-91bd-b362e4d0abd1&th=1"
+},
+
+{
+"id":122,
+"name":"TP-Link Router",
+"category":"Networking",
+"original_price":3455,
+"offer_price":2199,
+"rating":4.4,
+"image":"images/tplink_router.jpg",
+"buy_link":"https://www.amazon.in/D-Link-DIR-825-Dual-Band-Gigabit-Router/dp/B078L5J7G1/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.71RQ9DfEYJRTHj3oBKT5u3L-eH0n5ylAOgJmay5A_7fn3Zeb4K-F-FJFApZOi0xE8Afn8xx3AfBkNh3uU2MPMGZMhcIahaA-U9kPMZccHMJtcgqLdIJs7yMKV5Ff15265hsKBrEun_C9LVIohCbAnrCnxn-OeLUxaz01ejrtsVz870NR_HJde3skZ5-dnJKeAGba0f-kTDpV37OdhGERuAR5v595gJ6Vzv-XdCVue1w.NfHpTLvp1a5S1bxKUgyfrLQgLU5ZA1Yp72_vvWGPxAU&dib_tag=se&keywords=tp+link+router&qid=1782284088&sr=8-1-spons&aref=kIV3bxpS2i&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+},
+
+{
+"id":127,
+"name":"Prestige Pop-Up Toaster",
+"category":"Kitchen Appliances",
+"original_price":1999,
+"offer_price":999,
+"rating":4.4,
+"image":"images/toaster.jpg",
+"buy_link":"https://www.flipkart.com/sansui-electric-co-ltd-prima-2-slice-600-w-pop-up-toaster/p/itmf8b311b166697?pid=PUTHB99SUCF6HA9Z&lid=LSTPUTHB99SUCF6HA9Z22OCOU&marketplace=FLIPKART&q=pop+up+toaster&store=j9e%2Fm38%2Ftxh&srno=s_1_4&otracker=search&fm=organic&iid=b51f4216-5e70-4b7c-ac4f-a201ed5e6b38.PUTHB99SUCF6HA9Z.SEARCH&ppt=sp&ppn=sp&ssid=rb6q7dx3n40000001782286284183&qH=198e71d145798b15"
+},
+
+{
+"id":128,
+"name":"iBELL Electric Kettle",
+"category":"Kitchen Appliances",
+"original_price":2350,
+"offer_price":999,
+"rating":4.5,
+"image":"images/electric_kettle.jpg",
+"buy_link":"https://www.amazon.in/GEKB17M-Electric-Tempered-Function-Rotating/dp/B0BGDXGBCC/ref=sxbs_pa_sp_search_thematic_btf_sspa?content-id=amzn1.sym.6748dafd-1857-4dd2-9058-aab807cb526e%3Aamzn1.sym.6748dafd-1857-4dd2-9058-aab807cb526e&crid=18U6QXLN84KZ&cv_ct_cx=pigeon+electric+kettle&keywords=pigeon+electric+kettle&pd_rd_i=B0BGDXGBCC&pd_rd_r=49d80fc2-b808-477e-8ae6-538ab5cf8704&pd_rd_w=CEpyF&pd_rd_wg=dZx1v&pf_rd_p=6748dafd-1857-4dd2-9058-aab807cb526e&pf_rd_r=CH74B9DT26DNVHX6356Q&qid=1782284847&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=piegon+electric+kettle%2Caps%2C392&sr=1-3-2907eac4-8056-42c7-8014-fdf7bd4c5395-spons&aref=gVkrx1t1Ak&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm&psc=1"
+},
+
+{
+"id":129,
+"name":"Portronics Projector",
+"category":"Electronics",
+"original_price":37999,
+"offer_price":18371,
+"rating":4.3,
+"image":"images/projector.jpg",
+"buy_link":"https://www.flipkart.com/portronics-beem-530-smart-led-projector-1080p-full-hd-7600-lumens-bluetooth-wi-fi-7600-lm-wireless-remote-controller-portable-projector/p/itmaca8163242217?pid=PROH9HTQTHVS5UP9&lid=LSTPROH9HTQTHVS5UP9VWUOY1&marketplace=FLIPKART&q=+protronics+projector&store=6bo%2Ftia%2F1hx&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=d8632116-f37d-43ba-8a8c-2049a846792e.PROH9HTQTHVS5UP9.SEARCH&ppt=sp&ppn=sp&ssid=y3wagv1j680000001782286818895&qH=7ff0301c90a2856c"
+},
+
+{
+"id":130,
+"name":"Smart LED Bulb",
+"category":"Home Essentials",
+"original_price":2049,
+"offer_price":449,
+"rating":4.4,
+"image":"images/smart_bulb.jpg",
+"buy_link":"https://www.amazon.in/Philips-Connected-Dimmable-Compatible-Assistant/dp/B08669L2GQ/ref=sr_1_6?dib=eyJ2IjoiMSJ9.lEYCirEv8fzF29kQf0f83CEDWevrpVO5t5Md_41XnhMMY-CMjAZ649dMkoQTdarqrPVLAy7NzG_zb9n7ZAwVLoSczq3ssLxMuwbwgf1maf-0_Us5rOnnl5lx2oikqJXM3Am2Zmme36qRov81y06wUWde9UCeLQkpm8RogUKaEjxl83XGBcv6pB1Et2HYWlkLwvPltWRYeXB2fqcDF6VrTStanYt0oIj11xgGtXQqftx1WFmU3cwFJwANhmIa_N1k-WkwTWUm1eN7zLHDNKH1z9V4uIN2kxIKeDMtTux7WwA.4wr1d2gCQg9DLfVobP5awDVD8Xr_zYm67uPVTEaryfo&dib_tag=se&keywords=smart+bulb&qid=1782285205&sr=8-6"
+},
+
+{
+"id":131,
+"name":"CP Plus CCTV Camera",
+"category":"Security",
+"original_price":4700,
+"offer_price":3801,
+"rating":4.5,
+"image":"images/cctv_camera.jpg",
+"buy_link":"https://www.flipkart.com/cp-plus-ez-s35t-3mp-4g-sim-supported-cctv-camera-motion-alerts-30m-night-vision-security/p/itm66bca1c05833c?pid=HSAHEZB7HTP3VK65&lid=LSTHSAHEZB7HTP3VK65QXHZGL&marketplace=FLIPKART&q=+cp+plsu+cctv+camera&store=igc%2Fj69%2Fagd&spotlightTagId=default_BestsellerId_igc%2Fj69%2Fagd&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_iQLeyHYunCe23C9cpLjZpeSqIZdh_3GSkRA4TBtIzIUpQFYYls9W9DRxGtQJPmMVbS3GhwGpBySYzOx25Qfs2Xw0xCjDyp1H3lnNe1paLzE5gdP0zdca8FRxDfUihH3r&ppt=sp&ppn=sp&ssid=0obfq1dv7k0000001782287349938&qH=a7d1e430fde13966"
+},
+
+{
+"id":132,
+"name":"Digitek Camera Tripod",
+"category":"Camera Accessories",
+"original_price":5999,
+"offer_price":2851,
+"rating":4.4,
+"image":"images/tripod.jpg",
+"buy_link":"https://www.amazon.in/POLAM-FOTO-Camera-Professional-Aluminum-Compact/dp/B0F6BV211J/ref=sxin_14_pa_sp_search_thematic_sspa?content-id=amzn1.sym.f7d72a1e-5698-491d-8e4e-cca77b240640%3Aamzn1.sym.f7d72a1e-5698-491d-8e4e-cca77b240640&crid=29BY8Y4V1RHJU&cv_ct_cx=digital%2Bcamera%2Btripod&keywords=digital%2Bcamera%2Btripod&pd_rd_i=B0F6BV211J&pd_rd_r=75cd3f58-dc68-4808-939c-325347c9ee0c&pd_rd_w=9eels&pd_rd_wg=oyLgI&pf_rd_p=f7d72a1e-5698-491d-8e4e-cca77b240640&pf_rd_r=6STDGXQ68FZ3HTB5V3D7&qid=1782285663&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=digital%2Bcamera%2Btripod%2Caps%2C424&sr=1-3-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&aref=CCMaQOTWEg&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1"
+},
+
+{
+"id":133,
+"name":"Philips Steam Iron",
+"category":"Home Appliances",
+"original_price":1895,
+"offer_price":1495,
+"rating":4.5,
+"image":"images/steam_iron.jpg",
+"buy_link":"https://www.flipkart.com/philips-dst0820-20-1250-w-steam-iron/p/itm1bbe40ebf1598?pid=IRNGU5MPNA8YFUNU&lid=LSTIRNGU5MPNA8YFUNUF7DLKI&marketplace=FLIPKART&q=+philips+steam+iron&store=j9e%2Fabm%2Fa0u&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=5c7437d1-07db-4eb2-8021-133ac51499f0.IRNGU5MPNA8YFUNU.SEARCH&ppt=sp&ppn=sp&ssid=xmel4cpcvk0000001782287576190&qH=0c86c2f071755db1"
+},
+
+{
+"id":136,
+"name":"Boldfit Yoga Mat",
+"category":"Fitness",
+"original_price":3499,
+"offer_price":599,
+"rating":4.4,
+"image":"images/yoga_mat.jpg",
+"buy_link":"https://www.amazon.in/Lifelong-Material-Anti-Slip-Exercise-Multicolor/dp/B0D9VVQD2S/ref=sr_1_8?dib=eyJ2IjoiMSJ9.vBX-_KU31hSel5Qp3T1qL90NNS9ifZbB11zw0I-6mZAxEAZs2mH3anmFpuFkavoJWq8I_qCnLK6bLzvoYr48sPVP8pXS5tblBnIbOhewl_ZCudk-8MJDtumsDQ3fILZnp99MZaYiCz68AVeTFeUsTb3Dcp_dHHmGBnfpp9ABp4mwzS12slWxCzhAyqv3vAhMQiJy0SmJBMWqqHJGY-bNn6rOvZa1CpQz51enKRyQPlobbG1KDUqQlZNh3EOhe0u7NqWPe5UqiJMz4rCDxAte-vVI-4Ct7YrtyPQEbDmyxU4.-89QZGdkj4ESztPxH8bMu7VA5KbHcg9TyqJDAcbarnE&dib_tag=se&keywords=yoga%2Bmat&qid=1782287320&sr=8-8&th=1"
+},
+
+{
+"id":137,
+"name":"Aurion Dumbbells Set",
+"category":"Fitness",
+"original_price":2999,
+"offer_price":750,
+"rating":4.3,
+"image":"images/dumbbells.jpg",
+"buy_link":"https://www.flipkart.com/adrenex-10-kg-pvc-home-gym-combo-adjustable-dumbbell/p/itmf81da3961f325?pid=DBLG3HFP6TP9PUPN&marketplace=FLIPKART&lid=LSTDBLG3HFP6TP9PUPNLFB7MR&q=+aurion+dumbbells&fm=Search&pageUID=1782287482419"
+},
+
+{
+"id":138,
+"name":"Fogg Perfume",
+"category":"Beauty",
+"original_price":599,
+"offer_price":375,
+"rating":4.3,
+"image":"images/perfume.jpg",
+"buy_link":"https://www.amazon.in/Fogg-Impressio-Long-Lasting-Powerful-Fragrance/dp/B016BVZCEK/ref=sr_1_6?dib=eyJ2IjoiMSJ9.ec4l88IVQTzv3Eew6J31Ipjzc9LQXFXa3w0AjlAH021c_1ERc1fREBD_X4kRu_GxXnvud3Xr7ffLDp-ok2xiZqjM1p3bDQvHDXS_QJy7ChvFtlM5ajSUT0DYooFG-yk8N_q4gvqLrwbet8MzaykL7jApaRj64OaOTwpTxrseW3SqujAip-YZF6f51W-xTBw9dZ5nwlUpicnxEYhm7fex_D3BcNEQnPXLhjOBnzFQFl3L3pxM-rLyNyztQZo8heS6MAR6NwbZ2mpu5cSHAOrfMZBIgDAy20XB-RsiqkDrfko.wu-SKfjstQwNuN3nFi8-vk9wF4H_wOc-fKmYzFLIK0c&dib_tag=se&keywords=fogg+perfume&qid=1782287642&sr=8-6"
+},
+
+{
+"id":139,
+"name":"Woodland Leather Wallet",
+"category":"Fashion Accessories",
+"original_price":1495,
+"offer_price":597,
+"rating":4.5,
+"image":"images/wallett.jpg",
+"buy_link":"https://www.flipkart.com/woodland-men-casual-brown-genuine-leather-wallet/p/itm6be9dcf80cb65?pid=WCWGKUYKE3HQHGYG&lid=LSTWCWGKUYKE3HQHGYGDPIYLX&marketplace=FLIPKART&q=woodland+leather+wallet&store=reh&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=f22f3db7-8fd2-4a7e-b1ec-2b93110e077a.WCWGKUYKE3HQHGYG.SEARCH&ppt=sp&ppn=sp&ssid=sl560pvuj40000001782289738391&qH=07e105d57c3462b3"
+},
+
+{
+"id":140,
+"name":"Logitech Bluetooth Mouse",
+"category":"Computer Accessories",
+"original_price":1599,
+"offer_price":959,
+"rating":4.5,
+"image":"images/bluetooth_mouse.jpg",
+"buy_link":"https://www.amazon.in/Logitech-Bluetooth-Wireless-Portable-Compatible/dp/B0C52ZF43S/ref=sr_1_4?crid=NAPUTAMX7N6U&dib=eyJ2IjoiMSJ9.EcFu-6o_Lrvix_MNSHmQtmTR7hVAaqF97KZcJe0MSMsBvHwagsOON9lrte8Un65Pij089LCj04qjh1h-uYKZcVld8u1KjPRGWsrYdKxnOGFHRKmZ4SigJz3MrQ-il0AAe_BmoCJcVHV6IS-LA_amvqsSb6WJxaNqJTLoiG57r4Y2TszPkZ5wsScRWuuddxawgqZkBR-c8mPLw2wRm2nZfkX8Ylzm0aMgEE8g3A-spDs.uOlGQmmeZTufksZ7aS4MvKxiddZWxoCniKHX1z5Qbws&dib_tag=se&keywords=logitech+bluetooth+mouse&nsdOptOutParam=true&qid=1782288080&sprefix=logitech+bluetooth+mouse%2Caps%2C368&sr=8-4"
+},
+
+{
+"id":142,
+"name":"Apple AirTag",
+"category":"Electronics Accessories",
+"original_price":499,
+"offer_price":149,
+"rating":4.6,
+"image":"images/airtag.jpg",
+"buy_link":"https://www.amazon.in/LIRAMARK-Silicone-Compatible-Apple-AirTag/dp/B0D7CNX6J6/ref=sr_1_9?dib=eyJ2IjoiMSJ9.6WAy1w-5UBDW2krhyHIUELOeiMn4joIhKse-b1tA9we5AeqB8eYvd_echHNY6dXt6WmfR-BZ-rqAhn6d6sKZOhdyQtzAZO_UkmBBB8BE9pngpN-3GevAwEyn5k3tDI3lAUJJgQX2GXsoFFXUUAbm9RnhwdRdF59irK8QLgNv9AEBaA8Xk2y07xBQGfbjNV9z5JXNyNMsYQdUiVJYKbUucea_WAK6b4PqZkZ8N7n9r6Y.J4CZfWTApRjx4jVXoChWJAj6Yt3LK6sgt5D2fLtpyAg&dib_tag=se&keywords=apple+airtag&qid=1782288389&sr=8-9"
+},
+
+{
+"id":145,
+"name":"Cello Dinner Set",
+"category":"Kitchen",
+"original_price":4999,
+"offer_price":1563,
+"rating":4.5,
+"image":"images/dinner_set.jpg",
+"buy_link":"https://www.flipkart.com/classic-essentials-pack-42-stainless-steel-dinner-set-serves-4-people-heavy-gauge-kitchen-set-permanent-laser-vriksha-set/p/itm1518ca88adea6?pid=DNSFQ3AGNJB9QGMS&lid=LSTDNSFQ3AGNJB9QGMSTYRXNS&marketplace=FLIPKART&q=+cellon+dinner+set&store=upp%2Fi7t%2Flha&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=en_vIjGLykfA5TxWwT1SQL2RyEr6G4gOvfB9-ZOmMZEPSsr5y6WRbF3jZfdPnaROb-8boy6SfCz4RjtYsT0QUh3oNZY4Rv8maOB7P-y6TphAhKmQXdgNgvzf_NnJ_riOpCG&ppt=sp&ppn=sp&ssid=lk6lea3y340000001782290483119&qH=c6ed7f537011296b"
+},
+
+{
+"id":147,
+"name":"Zebronics USB Hub",
+"category":"Computer Accessories",
+"original_price":799,
+"offer_price":215,
+"rating":4.2,
+"image":"images/usb_hub.jpg",
+"buy_link":"https://www.flipkart.com/zebronics-4-1-type-c-usb-3-0-4-port-hub-hi-speed-data-transfer-zeb-ta200u-laptop-accessory/p/itm53917a28e585f?pid=USGGNRQ2D5PGMKRA&lid=LSTUSGGNRQ2D5PGMKRAMODX2T&marketplace=FLIPKART&q=+zebronics+usb+hub&store=6bo%2Fai3%2Fpak&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=984fd5bc-66aa-4048-9ff9-0d4fe2cbc660.USGGNRQ2D5PGMKRA.SEARCH&ppt=sp&ppn=sp&ssid=avv1zc2k3k0000001782290810049&qH=9b345feba10a6f35"
+},
+
+{
+"id":150,
+"name":"Fire TV Stick",
+"category":"Streaming Devices",
+"original_price":4999,
+"offer_price":3599,
+"rating":4.7,
+"image":"images/fire_tv_stick.jpg",
+"buy_link":"https://www.amazon.in/Certified-Refurbished-Amazon-controls-streaming/dp/B0CQMW3YJN/ref=sr_1_3?dib=eyJ2IjoiMSJ9.OAjInfQqPUuDSyY5KYDxt4NLTWOOyP-fZ9K0JZS_5LKUTWtqM_a3b-HkpePxaRhmsESC3ivhZsKCCbNdCkPr2YQHJjksomF1I32Bo3UIR_XH2qDO1HBZYokEzx2qeEZRuAIC6mhPPOX2YAd4uAm0A1QAG_FtnItyY8o-dKJ5wIMN_xlrHOZMfdB-qtcugYjzjHnZy4tjisneX6jTUvb1nCZ89YhmLBCfnOkIHFDlZV4.S4yG2_Ch42xpU28SN0LGVzDzCIRi8uruRMZhRkwvdck&dib_tag=se&keywords=fire+tv+stick&qid=1782289230&sr=8-3"
+}
+]
