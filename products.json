@@ -1213,5 +1213,25 @@
 "rating":4.7,
 "image":"images/fire_tv_stick.jpg",
 "buy_link":"https://www.amazon.in/Certified-Refurbished-Amazon-controls-streaming/dp/B0CQMW3YJN/ref=sr_1_3?dib=eyJ2IjoiMSJ9.OAjInfQqPUuDSyY5KYDxt4NLTWOOyP-fZ9K0JZS_5LKUTWtqM_a3b-HkpePxaRhmsESC3ivhZsKCCbNdCkPr2YQHJjksomF1I32Bo3UIR_XH2qDO1HBZYokEzx2qeEZRuAIC6mhPPOX2YAd4uAm0A1QAG_FtnItyY8o-dKJ5wIMN_xlrHOZMfdB-qtcugYjzjHnZy4tjisneX6jTUvb1nCZ89YhmLBCfnOkIHFDlZV4.S4yG2_Ch42xpU28SN0LGVzDzCIRi8uruRMZhRkwvdck&dib_tag=se&keywords=fire+tv+stick&qid=1782289230&sr=8-3"
+},
+  {
+  "id":151,
+  "name":"puma men seawalk sneaker",
+  "category":"shoes",
+  "original_price":3999,
+  "offer_price":2292,
+  "rating":4.4,
+  "image":"images/puma.jpg",
+  "buy_link":"https://amzn.to/4v8RZuo"
+},
+{
+  "id":152,
+  "name":"VAYA HauteChef Cast Iron Kadai,",
+  "category":"Kitchen & Dining",
+  "original_price":1890,
+  "offer_price":945,
+  "rating":4.4,
+  "image":"dining.jpg",
+  "buy_link":"https://amzn.to/43TM6pE"
 }
 ]
