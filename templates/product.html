@@ -9,10 +9,21 @@
         <!-- Product Image -->
         <div class="col-md-5 text-center">
 
+            {% if product.image.startswith('http') %}
+
+            <img src="{{ product.image }}"
+                 class="img-fluid rounded shadow"
+                 alt="{{ product.name }}"
+                 style="max-height:350px; object-fit:contain;">
+
+            {% else %}
+
             <img src="{{ url_for('static', filename=product.image) }}"
                  class="img-fluid rounded shadow"
                  alt="{{ product.name }}"
-                 style="max-height: 350px; object-fit: contain;">
+                 style="max-height:350px; object-fit:contain;">
+
+            {% endif %}
 
         </div>
 
