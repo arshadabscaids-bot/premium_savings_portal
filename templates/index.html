@@ -40,9 +40,21 @@
             <div class="card product-card h-100">
 
                 <!-- Product Image -->
-                <img src="{{ url_for('static', filename=product.image) }}"
-                     class="card-img-top"
-                     alt="{{ product.name }}">
+    
+
+{% if product.image.startswith('http') %}
+
+<img src="{{ product.image }}"
+     class="card-img-top"
+     alt="{{ product.name }}">
+
+{% else %}
+
+<img src="{{ url_for('static', filename=product.image) }}"
+     class="card-img-top"
+     alt="{{ product.name }}">
+
+{% endif %}
 
                 <div class="card-body">
 
