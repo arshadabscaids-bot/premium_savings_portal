@@ -10,17 +10,11 @@
 
 /* BODY BACKGROUND IMAGE */
 body{
-
-    background-image:url("../images/bg.jpg");
-
-    background-size:100% 100%;
-
+    background-image:url("../images/bg-desktop.jpg");
+    background-size:cover;
+    background-position:center;
     background-repeat:no-repeat;
-
-    background-position:center center;
-
     background-attachment:fixed;
-
     color:#ff0000;
    
 }
@@ -195,4 +189,25 @@ body{
     .search-box{
         width:200px;
     }
+}
+
+
+/* Mobile Background */
+
+@media (max-width:768px){
+
+    body{
+
+        background-image:url("../images/bg-mobile.jpg");
+
+        background-size:cover;
+
+        background-position:center;
+
+        background-repeat:no-repeat;
+
+        background-attachment:scroll;
+
+    }
+
 }
