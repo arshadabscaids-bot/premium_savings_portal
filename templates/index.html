@@ -2,10 +2,9 @@
 
 {% block content %}
 
-<!-- Hero Section Start -->
+<!-- Hero Section -->
 <div class="hero-section text-center">
 
-    <!-- Logo -->
     <img src="{{ url_for('static', filename='images/logo.png') }}"
          alt="PSP Logo"
          width="110"
@@ -27,34 +26,60 @@
     </p>
 
 </div>
-<!-- Hero Section End -->
 
-<div class="container mt-4">
+<!-- Search Bar -->
+<div class="container mb-5">
+
+    <form action="/search" method="GET" class="d-flex">
+
+        <input
+            type="text"
+            name="q"
+            class="form-control"
+            placeholder="🔍 Search Products...">
+
+        <button
+            type="submit"
+            class="btn btn-danger ms-2">
+
+            Search
+
+        </button>
+
+    </form>
+
+</div>
+
+<!-- Today's Deals -->
+<h2 class="latest-title">
+    🔥 Today's Deals
+</h2>
+
+<div class="red-line"></div>
+
+<div class="container">
 
     <div class="row">
 
-        {% for product in products %}
+        {% for product in todays_deals %}
 
         <div class="col-lg-3 col-md-6 mb-4">
 
             <div class="card product-card h-100">
 
-                <!-- Product Image -->
-    
+                {% if product.image.startswith('http') %}
 
-{% if product.image.startswith('http') %}
+                <img src="{{ product.image }}"
+                     class="card-img-top"
+                     alt="{{ product.name }}">
 
-<img src="{{ product.image }}"
-     class="card-img-top"
-     alt="{{ product.name }}">
+                {% else %}
 
-{% else %}
+                <img src="{{ url_for('static', filename=product.image) }}"
+                     class="card-img-top"
+                     alt="{{ product.name }}">
 
-<img src="{{ url_for('static', filename=product.image) }}"
-     class="card-img-top"
-     alt="{{ product.name }}">
-
-{% endif %}
+                {% endif %}
 
                 <div class="card-body">
 
@@ -68,11 +93,12 @@
                     </p>
 
                     <p>
+
                         <del class="text-danger">
                             ₹{{ product.original_price }}
                         </del>
 
-                        &nbsp;&nbsp;
+                        &nbsp;
 
                         <span class="offer-price">
                             ₹{{ product.offer_price }}
@@ -86,7 +112,98 @@
 
                     <a href="/product/{{ product.id }}"
                        class="btn btn-danger w-100">
+
                         View Details
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+</div>
+
+<!-- All Products -->
+
+<h2 class="latest-title">
+    All Products
+</h2>
+
+<div class="red-line"></div>
+
+<div class="container">
+
+    <div class="row">
+
+        {% for product in products %}
+
+        <div class="col-lg-3 col-md-6 mb-4">
+
+            <div class="card product-card h-100">
+
+                {% if product.image.startswith('http') %}
+
+                <img src="{{ product.image }}"
+                     class="card-img-top"
+                     alt="{{ product.name }}">
+
+                {% else %}
+
+                <img src="{{ url_for('static', filename=product.image) }}"
+                     class="card-img-top"
+                     alt="{{ product.name }}">
+
+                {% endif %}
+
+                <div class="card-body">
+
+                    <h5 class="card-title">
+                        {{ product.name }}
+                    </h5>
+
+                    <p>
+
+                        <strong>Category:</strong>
+
+                        {{ product.category }}
+
+                    </p>
+
+                    <p>
+
+                        <del class="text-danger">
+
+                            ₹{{ product.original_price }}
+
+                        </del>
+
+                        &nbsp;
+
+                        <span class="offer-price">
+
+                            ₹{{ product.offer_price }}
+
+                        </span>
+
+                    </p>
+
+                    <p>
+
+                        ⭐ {{ product.rating }}
+
+                    </p>
+
+                    <a href="/product/{{ product.id }}"
+                       class="btn btn-danger w-100">
+
+                        View Details
+
                     </a>
 
                 </div>
