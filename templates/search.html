@@ -4,8 +4,8 @@
 
 <div class="container mt-4">
 
-    <h2 class="text-center mb-4">
-        Search Results
+    <h2 class="text-white mb-4">
+        🔍 Search Results for "{{ query }}"
     </h2>
 
     {% if products %}
@@ -14,14 +14,23 @@
 
         {% for product in products %}
 
-        <div class="col-md-3 mb-4">
+        <div class="col-lg-3 col-md-6 mb-4">
 
-            <div class="card h-100 shadow">
+            <div class="card product-card h-100">
+
+                {% if product.image.startswith('http') %}
+
+                <img src="{{ product.image }}"
+                     class="card-img-top"
+                     alt="{{ product.name }}">
+
+                {% else %}
 
                 <img src="{{ url_for('static', filename=product.image) }}"
                      class="card-img-top"
-                     alt="{{ product.name }}"
-                     style="height:250px; object-fit:contain; padding:10px;">
+                     alt="{{ product.name }}">
+
+                {% endif %}
 
                 <div class="card-body">
 
@@ -35,22 +44,28 @@
                     </p>
 
                     <p>
+
                         <del class="text-danger">
                             ₹{{ product.original_price }}
                         </del>
-                    </p>
 
-                    <h5 class="text-success">
-                        ₹{{ product.offer_price }}
-                    </h5>
+                        &nbsp;&nbsp;
+
+                        <span class="offer-price">
+                            ₹{{ product.offer_price }}
+                        </span>
+
+                    </p>
 
                     <p>
                         ⭐ {{ product.rating }}
                     </p>
 
                     <a href="/product/{{ product.id }}"
-                       class="btn btn-primary">
+                       class="btn btn-danger w-100">
+
                         View Details
+
                     </a>
 
                 </div>
@@ -67,7 +82,16 @@
 
     <div class="alert alert-warning text-center">
 
-        No products found.
+        <h4>No Products Found 😔</h4>
+
+        <p>Try searching with another product name.</p>
+
+        <a href="/"
+           class="btn btn-danger">
+
+            Back to Home
+
+        </a>
 
     </div>
 
@@ -76,3 +100,4 @@
 </div>
 
 {% endblock %}
+```
