@@ -1,0 +1,131 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="container py-5">
+
+    <h2 class="text-center mb-5">
+
+        ❤️ My Wishlist
+
+    </h2>
+
+    <div id="wishlist-container" class="row">
+
+        <!-- Wishlist Products JavaScript மூலம் இங்கே வரும் -->
+
+    </div>
+
+</div>
+
+<!-- Wishlist Script -->
+
+<script>
+
+const wishlist = JSON.parse(localStorage.getItem("wishlist")) || [];
+
+const allProducts = {{ products | tojson }};
+
+const container = document.getElementById("wishlist-container");
+
+if (wishlist.length === 0) {
+
+    container.innerHTML = `
+
+        <div class="col-12 text-center">
+
+            <h4>Your Wishlist is Empty ❤️</h4>
+
+            <a href="/"
+               class="btn btn-danger mt-3">
+
+               Continue Shopping
+
+            </a>
+
+        </div>
+
+    `;
+
+} else {
+
+    let html = "";
+
+    wishlist.forEach(id => {
+
+        const product = allProducts.find(p => p.id === id);
+
+        if(product){
+
+            html += `
+
+            <div class="col-lg-3 col-md-6 mb-4">
+
+                <div class="card product-card h-100">
+
+                    <img src="${product.image.startsWith('http')
+                        ? product.image
+                        : '/static/' + product.image}"
+
+                        class="card-img-top">
+
+                    <div class="card-body">
+
+                        <h5>${product.name}</h5>
+
+                        <p>
+
+                            <strong>₹${product.offer_price}</strong>
+
+                        </p>
+
+                        <a href="/product/${product.id}"
+
+                           class="btn btn-danger w-100 mb-2">
+
+                           View Details
+
+                        </a>
+
+                        <button
+
+                           onclick="removeWishlist(${product.id})"
+
+                           class="btn btn-outline-danger w-100">
+
+                           Remove
+
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            `;
+
+        }
+
+    });
+
+    container.innerHTML = html;
+
+}
+
+function removeWishlist(id){
+
+    let wishlist = JSON.parse(localStorage.getItem("wishlist")) || [];
+
+    wishlist = wishlist.filter(item => item !== id);
+
+    localStorage.setItem("wishlist", JSON.stringify(wishlist));
+
+    location.reload();
+
+}
+
+</script>
+
+{% endblock %}
+```
