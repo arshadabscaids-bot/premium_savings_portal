@@ -37,8 +37,8 @@ body{
 
 /* Search Box */
 .search-box{
-    width:500px;
-    border-radius:30px;
+    width:250px;
+    border-radius:15px;
 }
 
 /* Hero Section */
@@ -190,7 +190,8 @@ body{
         width:200px;
     }
 }
-/* Mobile Background IMAGE*/
+
+/* Mobile Background */
 
 @media (max-width:768px){
 
@@ -207,5 +208,68 @@ body{
         background-attachment:fixed;
 
     }
+
+    .product-image{
+
+    position:relative;
+
+}
+
+.wishlist-btn{
+
+    position:absolute;
+
+    bottom:15px;
+
+    left:15px;
+
+    width:55px;
+
+    height:55px;
+
+    border:none;
+
+    border-radius:50%;
+
+    background:rgb(255, 0, 0);
+
+    cursor:pointer;
+
+    z-index:9999;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.3);
+
+}
+
+/* Default Heart */
+.wishlist-btn i{
+
+    font-size:28px;
+
+    color:#f80000;
+
+    transition:0.3s;
+
+}
+
+/* Filled Heart */
+.wishlist-btn i.bi-heart-fill{
+
+    color:red !important;
+
+}
+
+.wishlist-btn:hover{
+
+    background:red;
+
+}
+
+/* Hover icon */
+.wishlist-btn:hover i{
+
+    color:rgb(255, 6, 6) !important;
+
+}
 
 }
