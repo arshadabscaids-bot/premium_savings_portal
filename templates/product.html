@@ -4,10 +4,13 @@
 
 <div class="container py-5">
 
-    <div class="row align-items-center">
+```
+<div class="row align-items-center">
 
-        <!-- Product Image -->
-        <div class="col-md-5 text-center">
+    <!-- Product Image -->
+    <div class="col-md-5 text-center">
+
+        <div class="product-image">
 
             {% if product.image.startswith('http') %}
 
@@ -25,53 +28,64 @@
 
             {% endif %}
 
-        </div>
+            <!-- Wishlist Heart Button -->
+            <button
+    id="wishlist-btn"
+    class="wishlist-btn"
+    onclick="addToWishlist({{ product.id }})">
 
-        <!-- Product Details -->
-        <div class="col-md-7">
+    <i id="heart-icon" class="bi bi-heart"></i>
 
-            <h2>{{ product.name }}</h2>
-
-            <p>
-                <strong>Category:</strong>
-                {{ product.category }}
-            </p>
-
-            <p>
-                <strong>Rating:</strong>
-                ⭐ {{ product.rating }}
-            </p>
-
-            <h5>
-                Original Price:
-                <del class="text-danger">
-                    ₹{{ product.original_price }}
-                </del>
-            </h5>
-
-            <h3 class="text-success">
-                Offer Price: ₹{{ product.offer_price }}
-            </h3>
-
-            <hr>
-
-            <p>
-                Grab this limited-time offer before the deal expires.
-            </p>
-
-            <a href="/buy/{{ product.id }}"
-               class="btn btn-success btn-lg">
-                Buy Now
-            </a>
-
-            <a href="/"
-               class="btn btn-secondary btn-lg">
-                Back to Home
-            </a>
-
+</button>
         </div>
 
     </div>
+
+    <!-- Product Details -->
+    <div class="col-md-7">
+
+        <h2>{{ product.name }}</h2>
+
+        <p>
+            <strong>Category:</strong>
+            {{ product.category }}
+        </p>
+
+        <p>
+            <strong>Rating:</strong>
+            ⭐ {{ product.rating }}
+        </p>
+
+        <h5>
+            Original Price:
+            <del class="text-danger">
+                ₹{{ product.original_price }}
+            </del>
+        </h5>
+
+        <h3 class="text-success">
+            Offer Price: ₹{{ product.offer_price }}
+        </h3>
+
+        <hr>
+
+        <p>
+            Grab this limited-time offer before the deal expires.
+        </p>
+
+        <a href="/buy/{{ product.id }}"
+           class="btn btn-success btn-lg">
+            Buy Now
+        </a>
+
+        <a href="/"
+           class="btn btn-secondary btn-lg">
+            Back to Home
+        </a>
+
+    </div>
+
+</div>
 
 </div>
 
