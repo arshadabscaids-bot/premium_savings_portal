@@ -137,3 +137,55 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
 });
+
+function addToWishlist(productId){
+
+    let wishlist = JSON.parse(localStorage.getItem("wishlist")) || [];
+
+    const heart = document.getElementById("heart-icon");
+
+    if(!wishlist.includes(productId)){
+
+        wishlist.push(productId);
+
+        localStorage.setItem("wishlist", JSON.stringify(wishlist));
+
+        heart.classList.remove("bi-heart");
+        heart.classList.add("bi-heart-fill");
+// ❤️ Red Color
+        heart.style.color = "red";
+
+
+        alert("❤️ Added to Wishlist");
+
+    }else{
+
+        wishlist = wishlist.filter(id => id !== productId);
+
+        localStorage.setItem("wishlist", JSON.stringify(wishlist));
+
+        heart.classList.remove("bi-heart-fill");
+        heart.classList.add("bi-heart");
+
+        // 🤍 Grey Color
+        heart.style.color = "#777";
+
+
+        alert("Removed from Wishlist");
+
+    }
+
+}
+
+window.onload = function(){
+
+    const heart = document.getElementById("heart-icon");
+
+    if(!heart) return;
+
+    const productId = Number(
+        document.getElementById("wishlist-btn")
+        .getAttribute("onclick")
+        .match(/\d+/)[0]
+    )
+}
