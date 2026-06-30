@@ -66,6 +66,18 @@ def buy(product_id):
     abort(404)
 
 
+# ---------------- WISHLIST ----------------
+@app.route("/wishlist")
+def wishlist():
+
+    products = load_products()
+
+    return render_template(
+        "wishlist.html",
+        products=products
+    )
+
+
 # ---------------- CATEGORY ----------------
 @app.route("/category/<category_name>")
 def category(category_name):
