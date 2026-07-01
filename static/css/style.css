@@ -21,7 +21,7 @@ body{
 
 /* Navbar */
 .navbar{
-    background:rgba(0,0,0,0.85)!important;
+    background:rgba(0, 0, 0, 0.85)!important;
     backdrop-filter:blur(10px);
 }
 
@@ -70,26 +70,26 @@ body{
     text-transform:uppercase;
 }
 
+.hero-subtitle{
+    font-size:35px;
+    color:#000000;
+    text-align:center;
+}
+
+.hero-text{
+    color:#000000;
+    font-size:25px;
+    margin-top:20px;
+    max-width:700px;
+    text-align:center;
+}
+
 .hero-line{
     width:120px;
     height:4px;
     background:red;
     margin:20px auto;
     border-radius:20px;
-}
-
-.hero-subtitle{
-    font-size:35px;
-    color:#ffffff;
-    text-align:center;
-}
-
-.hero-text{
-    color:#ff0000;
-    font-size:20px;
-    margin-top:20px;
-    max-width:700px;
-    text-align:center;
 }
 
 /* Latest Deals */
@@ -145,7 +145,7 @@ body{
 }
 
 .offer-price{
-    color:#00ff99;
+    color:hsl(156, 100%, 50%);
     font-size:22px;
     font-weight:bold;
 }
@@ -161,6 +161,30 @@ body{
     padding:40px;
     margin-top:80px;
     color:rgb(255, 255, 255);
+}
+
+/* Navbar Title */
+
+.site-title{
+
+    color:#000000 !important;
+
+    font-size:30px;
+
+    font-weight:900;
+
+    letter-spacing:1px;
+
+    text-shadow:2px 2px 8px rgb(255, 0, 0);
+
+    transition:.3s;
+
+}
+
+.site-title:hover{
+
+    text-shadow:3px 3px 12px rgb(255, 0, 0);
+
 }
 
 /* Scroll Top */
