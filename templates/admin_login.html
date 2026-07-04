@@ -1,25 +1,46 @@
-<h2>Admin Login</h2>
+{% extends "layout.html" %}
 
-<form method="POST">
+{% block content %}
 
-<label>Admin ID</label>
+<div class="container d-flex justify-content-center align-items-center"
+     style="min-height:85vh;">
 
-<input type="text"
-       name="admin_id"
-       class="form-control">
+    <div class="card p-5 shadow-lg"
+         style="width:420px;
+                border-radius:20px;
+                background:rgba(0,0,0,.85);
+                color:white;">
 
-<br>
+        <h2 class="text-center mb-4 text-danger">
+            🔐 Admin Login
+        </h2>
 
-<label>Password</label>
+        <form method="POST">
 
-<input type="password"
-       name="password"
-       class="form-control">
+            <div class="mb-3">
+                <label class="form-label">Admin ID</label>
+                <input type="text"
+                       name="admin_id"
+                       class="form-control"
+                       required>
+            </div>
 
-<br>
+            <div class="mb-4">
+                <label class="form-label">Password</label>
+                <input type="password"
+                       name="password"
+                       class="form-control"
+                       required>
+            </div>
 
-<button class="btn btn-danger">
-    Login
-</button>
+            <button class="btn btn-danger w-100">
+                Login
+            </button>
 
-</form>
+        </form>
+
+    </div>
+
+</div>
+
+{% endblock %}
