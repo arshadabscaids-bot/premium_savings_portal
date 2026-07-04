@@ -108,18 +108,26 @@
 function shareProduct() {
 
     const productName = "{{ product.name }}";
-    const productUrl = window.location.href;
+
+    const productUrl =
+    "https://premium-savings-portal-23uh.onrender.com/product/{{ product.id }}";
 
     if (navigator.share) {
+
         navigator.share({
             title: productName,
-            text: "Check out this amazing deal on Premium Savings Portal!",
+            text: "🛒 " + productName + "\n\nCheck out this amazing offer on Premium Savings Portal!",
             url: productUrl
         });
+
     } else {
+
         navigator.clipboard.writeText(productUrl);
+
         alert("Product link copied successfully!");
+
     }
+
 }
 </script>
 
