@@ -74,20 +74,53 @@
                 Grab this limited-time offer before the deal expires.
             </p>
 
-            <a href="/buy/{{ product.id }}"
-               class="btn btn-success btn-lg">
-                Buy Now
-            </a>
+            <!-- Buy Now Button -->
+<div class="mb-3">
+    <a href="/buy/{{ product.id }}"
+       class="btn btn-success btn-lg">
+        <i class="bi bi-cart-fill"></i> Buy Now
+    </a>
+</div>
 
-            <a href="/"
-               class="btn btn-secondary btn-lg">
-                Back to Home
-            </a>
+<!-- Share Button -->
+<div class="mb-3">
+    <button class="btn btn-primary btn-lg"
+            onclick="shareProduct()">
+        <i class="bi bi-share-fill"></i> Share Product
+    </button>
+</div>
+
+<!-- Back Button -->
+<div>
+    <a href="/"
+       class="btn btn-secondary btn-lg">
+        <i class="bi bi-arrow-left"></i> Back to Home
+    </a>
+</div>
 
         </div>
 
     </div>
 
 </div>
+
+<script>
+function shareProduct() {
+
+    const productName = "{{ product.name }}";
+    const productUrl = window.location.href;
+
+    if (navigator.share) {
+        navigator.share({
+            title: productName,
+            text: "Check out this amazing deal on Premium Savings Portal!",
+            url: productUrl
+        });
+    } else {
+        navigator.clipboard.writeText(productUrl);
+        alert("Product link copied successfully!");
+    }
+}
+</script>
 
 {% endblock %}
