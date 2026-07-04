@@ -71,13 +71,13 @@ body{
 }
 
 .hero-subtitle{
-    color:#fff;
+    color:#000000;
     font-size:42px;
     font-weight:600;
 }
 
 .hero-text{
-    color:#ffdddd;
+    color:#000000;
     font-size:22px;
     max-width:750px;
     margin:auto;
