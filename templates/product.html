@@ -4,88 +4,89 @@
 
 <div class="container py-5">
 
-```
-<div class="row align-items-center">
+    <div class="row align-items-center">
 
-    <!-- Product Image -->
-    <div class="col-md-5 text-center">
+        <!-- Product Image -->
+        <div class="col-md-5 text-center">
 
-        <div class="product-image">
+            <div class="product-image">
 
-            {% if product.image.startswith('http') %}
+                {% if product.image.startswith('http') %}
 
-            <img src="{{ product.image }}"
-                 class="img-fluid rounded shadow"
-                 alt="{{ product.name }}"
-                 style="max-height:350px; object-fit:contain;">
+                <img src="{{ product.image }}"
+                     class="img-fluid rounded shadow"
+                     alt="{{ product.name }}"
+                     style="max-height:350px; object-fit:contain;">
 
-            {% else %}
+                {% else %}
 
-            <img src="{{ url_for('static', filename=product.image) }}"
-                 class="img-fluid rounded shadow"
-                 alt="{{ product.name }}"
-                 style="max-height:350px; object-fit:contain;">
+                <img src="{{ url_for('static', filename=product.image) }}"
+                     class="img-fluid rounded shadow"
+                     alt="{{ product.name }}"
+                     style="max-height:350px; object-fit:contain;">
 
-            {% endif %}
+                {% endif %}
 
-            <!-- Wishlist Heart Button -->
-            <button
-    id="wishlist-btn"
-    class="wishlist-btn"
-    onclick="addToWishlist({{ product.id }})">
+                <!-- Wishlist Button -->
+                <button
+                    id="wishlist-btn"
+                    class="wishlist-btn"
+                    onclick="addToWishlist({{ product.id }})">
 
-    <i id="heart-icon" class="bi bi-heart"></i>
+                    <i id="heart-icon" class="bi bi-heart"></i>
 
-</button>
+                </button>
+
+            </div>
+
+        </div>
+
+        <!-- Product Details -->
+        <div class="col-md-7">
+
+            <!-- Product Title -->
+            <h2 class="product-title">{{ product.name }}</h2>
+
+            <p class="product-info">
+                <strong>Category:</strong>
+                {{ product.category }}
+            </p>
+
+            <p class="product-info">
+                <strong>Rating:</strong>
+                ⭐ {{ product.rating }}
+            </p>
+
+            <h5>
+                Original Price:
+                <del class="text-danger">
+                    ₹{{ product.original_price }}
+                </del>
+            </h5>
+
+            <h3 class="text-success">
+                Offer Price: ₹{{ product.offer_price }}
+            </h3>
+
+            <hr>
+
+            <p>
+                Grab this limited-time offer before the deal expires.
+            </p>
+
+            <a href="/buy/{{ product.id }}"
+               class="btn btn-success btn-lg">
+                Buy Now
+            </a>
+
+            <a href="/"
+               class="btn btn-secondary btn-lg">
+                Back to Home
+            </a>
+
         </div>
 
     </div>
-
-    <!-- Product Details -->
-    <div class="col-md-7">
-
-        <h2>{{ product.name }}</h2>
-
-        <p>
-            <strong>Category:</strong>
-            {{ product.category }}
-        </p>
-
-        <p>
-            <strong>Rating:</strong>
-            ⭐ {{ product.rating }}
-        </p>
-
-        <h5>
-            Original Price:
-            <del class="text-danger">
-                ₹{{ product.original_price }}
-            </del>
-        </h5>
-
-        <h3 class="text-success">
-            Offer Price: ₹{{ product.offer_price }}
-        </h3>
-
-        <hr>
-
-        <p>
-            Grab this limited-time offer before the deal expires.
-        </p>
-
-        <a href="/buy/{{ product.id }}"
-           class="btn btn-success btn-lg">
-            Buy Now
-        </a>
-
-        <a href="/"
-           class="btn btn-secondary btn-lg">
-            Back to Home
-        </a>
-
-    </div>
-
-</div>
 
 </div>
 
