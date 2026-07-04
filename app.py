@@ -64,9 +64,8 @@ def buy(product_id):
             return redirect(p["buy_link"])
 
     abort(404)
-
-
-# ---------------- WISHLIST ----------------
+    
+    # ---------------- WISHLIST ----------------
 @app.route("/wishlist")
 def wishlist():
 
@@ -95,6 +94,45 @@ def category(category_name):
         products=filtered_products,
         category_name=category_name
     )
+    
+    
+    # ==========================
+# ADMIN LOGIN START
+# ==========================
+
+ADMIN_ID = "admin"
+ADMIN_PASSWORD = "123456"
+
+@app.route("/admin", methods=["GET", "POST"])
+def admin():
+
+    if request.method == "POST":
+
+        admin_id = request.form["admin_id"]
+        password = request.form["password"]
+
+        if admin_id == ADMIN_ID and password == ADMIN_PASSWORD:
+            return redirect("/dashboard")
+
+        return "Invalid Login"
+
+    return render_template("admin_login.html")
+
+
+# ==========================
+# ADMIN LOGIN END
+# ==========================
+
+
+# ==========================
+# DASHBOARD
+# ==========================
+
+@app.route("/dashboard")
+def dashboard():
+
+    return render_template("admin_dashboard.html")
+
 
 
 # ---------------- SEARCH ----------------
@@ -127,7 +165,6 @@ def search():
         products=filtered_products,
         query=query
     )
-
 
 # ---------------- RUN ----------------
 if __name__ == "__main__":
