@@ -282,5 +282,21 @@ form.d-flex button{
     padding:25px;
     text-align:center;
 }
+    
+/* Mobile Product Title */
+@media (max-width:768px){
+
+    .product-title{
+        color:#fff !important;
+        text-shadow:2px 2px 8px #000;
+    }
+
+    .product-info{
+        color:#fff !important;
+    }
+
+    .product-info strong{
+        color:#fff !important;
+    }
 
 }
