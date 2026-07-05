@@ -100,8 +100,8 @@ def category(category_name):
 # ADMIN LOGIN START
 # ==========================
 
-ADMIN_ID = "admin"
-ADMIN_PASSWORD = "123456"
+ADMIN_ID = "psp"
+ADMIN_PASSWORD = "786"
 
 @app.route("/admin", methods=["GET", "POST"])
 def admin():
