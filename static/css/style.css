@@ -202,6 +202,15 @@ body{
     color:#000 !important;
 }
 
+/* Wishlist Heading */
+#wishlist-heading{
+    color:#000 !important;
+    font-size:42px !important;
+    font-weight:700 !important;
+    text-shadow:none !important;
+    background:none !important;
+}
+
 /* MOBILE */
 @media(max-width:768px){
 
